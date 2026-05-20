@@ -103,6 +103,8 @@ function Build-Pdf {
         "-V", "colorlinks=true",
         "-V", "linkcolor=[HTML]{1A4A7A}",
         "-V", "urlcolor=[HTML]{1A4A7A}",
+        "-V", "filecolor=[HTML]{1A4A7A}",
+        "-V", "citecolor=[HTML]{1A4A7A}",
         "-V", "toccolor=[HTML]{1A4A7A}",
         "-V", "table-use-row-colors=true",
         "-V", "geometry:margin=2.5cm",
