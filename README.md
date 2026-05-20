@@ -6,7 +6,7 @@
 > **Mottagaradress:** `planochbyggenheten@mark.se`
 > **Diarienummer:** PLAN.2024.747
 
-> ⚠️ **FÖRSTA UTKAST.** Samtliga dokument i detta repo är **första utkast**. Anpassa innehållet, korrekturläs noggrant och var införstådd med innehållet innan inlämning till myndighet.
+> ⚠️ Samtliga dokument i detta repo är grova förslag. Anpassa innehållet, korrekturläs noggrant och var införstådd med innehållet innan inlämning till myndighet.
 
 Materialet är fritt att använda som mall för egna samrådsyttranden eller överklaganden i liknande ärenden. Se [Disclaimer](#disclaimer) längst ned.
 
@@ -14,7 +14,7 @@ Materialet är fritt att använda som mall för egna samrådsyttranden eller öv
 
 ## De tre yttrandena
 
-> Alla dokument nedan är **första utkast**. Granskning av jurist saknas. Korrekturläs, anpassa och fyll i platsmarkörer innan inlämning.
+> Korrekturläs, anpassa och fyll i platsmarkörer innan inlämning.
 
 | Yttrande | Beskrivning | Format |
 |---|---|---|
@@ -83,7 +83,7 @@ Samtliga mål är verifierade mot officiella källor (lagen.nu, domstol.se, stra
 
 ---
 
-## Tidplan
+## Förväntad tidplan
 
 | Datum | Händelse |
 |---|---|
