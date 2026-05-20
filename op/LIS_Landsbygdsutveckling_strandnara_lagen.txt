@@ -1,0 +1,1863 @@
+LIS
+Landsbygds-
+utveckling i
+strandnära lägen
+
+
+
+
+DEL 3 – UNDERLAG
+
+Antagen av kommunfullmäktige 2017-04-20 § 43
+Översiktsplanen vann laga kraft 2017-05-25
+Innehåll
+1. INLEDNING                                                      3
+  Bakgrund                                                         3
+  Uppdrag                                                          3
+  Underlag                                                         3
+  Organisation och tidplan                                         3
+
+2. FÖRUTSÄTTNINGAR                                                4
+  Marks kommun                                                     4
+  LIS                                                              4
+  Övriga förutsättningar                                           7
+  Påverkandefaktorer                                               7
+
+3. FÖRSLAG                                                       12
+  Urvalsprocess                                                   12
+  Kriterier för urval                                             12
+  Generella regler och rekommendationer                           12
+  LIS 03 Hanatorp-Krok-Haby                                       14
+  LIS 05 Hyssna-Stjärnhult-Flybacka                               17
+  LIS 06 Sjödal                                                   20
+  LIS 07 Sätila                                                   21
+  LIS 09 Torestorp                                                23
+  LIS 10 Öxabäck                                                  24
+  LIS 12 Hajom                                                    26
+
+REFERENSER                                                       28
+BILAGOR                                                          29
+
+
+
+
+                           LIS Landsbygdsutveckling i strandnära lägen   Sid 1 (34)
+1. INLEDNING
+Bakgrund
+I samband med att nya strandskyddsregler antogs           Två viktiga inriktningar lyfts fram i beslutet: Marks
+den 2 maj 2009 beslutades att dispens från strand-        unika värden och ett hållbart Mark, som båda syftar
+skyddsreglerna kan medges om byggandet ingår i            till att stärka såväl kommunens tätorter och byar,
+områden för landsbygdsutveckling i strandnära lä-         som landsbygd och landskap/natur.
+gen, så kallade LIS-områden. För att kunna betrak-
+                                                          Under 2010 och 2011 har kommunen i en medbor-
+tas som ett LIS-område måste det vara utpekat i en
+                                                          garsamverkan tagit fram en vardagslivskartläggning
+översiktsplan.
+                                                          för hela kommunen, som ett kunskapsunderlag i ar-
+En översiktsplan är inte juridiskt bindande och garan-    betet med den nya översiktsplanen. Under kartlägg-
+terar därför inte genomförande, utan anger snarare        ningen identifierades problem och möjligheter för
+ramarna för utvecklingen och skapar möjligheter för       kommunens och den egna bygdens utveckling.
+den. Kommunen gör i sin planering en lämplighets-
+                                                          I arbetet med den nya översiktsplanen har vidare en
+bedömning utifrån de behov och de förutsättningar
+                                                          strukturbild för Mark tagits fram, som hjälper till att
+som finns. Sen är det upp till den enskilde fastighets-
+                                                          skapa en tydlighet om kommunens prioriteringar.
+ägaren att ta ställning till om den vidgade möjlighe-
+ten ska utnyttjas eller inte. Se vidare under avsnittet   Dessa beslut och dokument utgör underlag för hur
+LIS som strategisk möjlighet, sidan 6.                    förslagen till områden för landsbygdsutveckling i
+                                                          strandnära lägen valts ut. Förslagen har arbetats
+Uppdrag                                                   fram under hösten 2012 av en konsult. Dessa presen-
+                                                          terade för kommunstyrelsens arbetsutskotts över-
+En politisk styrgrupp för den nya översiktsplanen för     siktsplanegrupp (KSAU/ÖP) i februari 2013. Därefter
+Marks kommun (KSAU/ÖP) har beslutat att en sär-           bearbetades utredningen och skickades på samråd
+skild LIS-utredning ska tas fram. Utredningen ska         samtidigt som översiktsplanen. Efter samråd (maj-
+fungera som ett underlag för att identifiera lämpli-      september 2014) och utställning (augusti-oktober
+ga områden för landsbygdsutveckling i strandnära          2016) har inkomna synpunkter behandlats politiskt
+lägen i översiktsplanen, och antas som ett tematiskt      och LIS-utredningen reviderats. Det slutliga förslaget
+tillägg till denna. LIS-områdena kommer också över-       har sedan antagits som ett tematiskt tillägg till över-
+siktligt att inarbetas i översiktsplanen där de vägs      siktsplanen i april 2017, tillsammans med denna.
+mot andra intressen i kommunen.
+
+Underlag                                                  Organisation och tidplan
+                                                          Kommunstyrelsen är uppdragsgivare för översikt-
+Det viktigaste styrdokumentet för översiktsplanen är      lig planering. En arbetsgrupp har utsetts för fram-
+Vision och mål för Marks kommun (KF 2009-11-24)           tagandet av ett förslag till ny översiktsplan, bestå-
+som ska ligga till grund för alla kommunala beslut.       ende av bygg- och miljökontorets förvaltningschef
+Visionen är att Mark som vara känt som som en att-        Tord Lundborg, planhandläggare Ing-Marie Sjö-
+raktiv kommun att bo och verka i och där livskvalitet     blom, planarkitekt Sofia Refsnes och plankonsult
+sätts i fokus.                                            Pernilla Jacobsson. Stefan Wallner, JAWA samhälls-
+Kommunfullmäktige har 2011-09-22 antagit ett beslut       byggnad, har anlitats för arbetet med att ta fram ett
+om inriktning i det fortsatta översiktsplanearbetet.      förslag till LIS-utredning.
+
+
+
+
+                          LIS Landsbygdsutveckling i strandnära lägen                              Sid 3 (34)
+2. FÖRUTSÄTTNINGAR
+Marks kommun
+Marks kommun ligger i sjuhäradsbygden mellan Gö-           I kommunen finns mycket av det småskaliga odlings-
+teborg, Borås och Varberg. Kommunen har en yta på          landskapet fortfarande kvar, ”Stenmurslandskapet”,
+1 018 kvadratkilometer Med en befolkning på nästan         med hagmarker, lövdungar, dammar, åkerrenar och
+34 000 invånare har kommunen en genomsnittlig be-          stenmurar, som skapar förutsättningar för ett artrikt
+folkningstäthet på 33 invånare per kvadratkilometer.       växt- och djurliv, med allt från däggdjur, fåglar och in-
+Avståndet från Kinna till Göteborg är 59 kilometer,        sekter, till växter, lavar, mossor och svampar. Odlings-
+till Borås 32 kilometer och till Varberg 57 kilometer.     landskapets höga naturvärden är främst knutna till
+Stommen i vägnätet utgörs av väg 41 (Varberg – Bor-        välhävdade ogödslade slåtter- och betesmarker med
+ås) och väg 156 (Svenljunga – Härryda), där den an-        grova träd, vilket återfinns vid Nockakulla, Vallsås,
+sluter till väg 40 mot Göteborg. Viskadalsbanan (Var-      Assberg och Öresten.
+berg – Borås) och busstrafiken till Göteborg via väg
+                                                           Lövskogarna i Mark är koncentrerade till dalgång-
+156 är mycket viktiga för arbetspendling till och från
+                                                           arnas branter och stup och kring de större sjöarna.
+kommunen.
+                                                           Lövskogen ramar in det öppna odlingslandskapet
+Till Kinna tar det en timma och tio minuter med buss       och ger det dess typiska karaktär, och ger därmed
+från Göteborg och 50 minuter med tåg från Varberg.         även en skenbar känsla av att ha en stor utbredning.
+Till Sätila tar det ca 50 minuter från Göteborg. Till      Lövskogen i Mark utgör dock bara ca tio procent av
+Landvetter flygplats, som har stor betydelse för kom-      skogsarealen i Mark. Dessa skogar har ofta lång kon-
+munen och ligger strax nordost om kommungränsen,           tinuitet och mycket höga naturvärden.
+är förbindelserna sämre och det tar ca en och en halv
+                                                           I näringsrika översvämningsvåtmarker hittas en art-
+timme med buss.
+                                                           och individrik fågelfauna. Här stannar både häckan-
+Många av företagen i Mark är inriktade på inred-           de och flyttande fåglar. Idag har många tidigare be-
+ning. Här finns ett flertal stora textilföretag och mö-    tade eller slåttrade mader vuxit igen, men på några
+belfabriker. Kemi-, elektronik- och förpackningsin-        ställen finns dessa värdefulla miljöer kvar, till exem-
+dustri är också etablerad i kommunen. Här finns en         pel maderna vid Veselången, Ramslätt och Tyngsryd.
+stark entreprenörsanda och många småföretag inom
+                                                           Försurningen i Västsverige innebär att ca 140 sjö-
+många olika branscher.
+                                                           ar och 410 våtmarker kalkas i kommunen. Årligen
+Marks kommun har en variationsrik och attraktiv            sprids ca 2 500 ton kalkstensmjöl till en kostnad av
+natur för både djur, växter, invånare och turister. Ca     3 100 000 kronor, som huvudsakligen finansieras ge-
+500 hektar är skyddad som naturreservat eller Na-          nom statliga bidrag.
+tura 2000-område. Här finns lövskogar och fågelrika
+våtmarker. Det vackra odlingslandskapet med beta-
+de hagmarker och stenmurar har stor betydelse för          LIS
+kommunens identitet. Landskapet präglas av en stor         Sedan den 1 juli 2009 kan kommunen i översikts-
+sjötäthet, varav de flesta är näringsfattiga sprickdals-   planen redovisa områden för landsbygdsutveckling i
+sjöar, där storlom är en karaktärsart. Kommunen har        strandnära läge, så kallade LIS-områden. Ett sådant
+ca 1 100 kilometer strand. Några av de största sjöar-      område får betraktas som ett särskilt skäl för dispens
+na i kommunen är Lygnern, Stora Öresjön, Västra och        från det generella strandskyddet om en byggnad,
+Östra Öresjön, Tolken, Stora Hålsjön, samt Västra och      verksamhet, anläggning eller annan åtgärd bidrar till
+Östra Ingsjön.                                             utvecklingen av landsbygden. Enligt miljöbalken ka-
+I det flacka jordbrukslandskapet slingrar åar som          pitel 7 § 18 e första stycket MB avses med LIS-områ-
+skurit ner i de lösa sedimenten och bildat karaktäris-     de, ett område som:
+tiska ravinsystem. Några av de största vattendragen        1. är lämpligt för utveckling av landsbygden,
+är Viskan, Surtan, Storån och Häggån som utgör en
+viktig del i landskapsbilden och ger förutsättningar       2. är av ett sådant slag och har en så begränsad om-
+för intressant flora och fauna, men är även viktiga för    fattning att strandskyddets syften fortfarande tillgo-
+rekreation och rörligt friluftsliv. Inlandsisen har även   doses långsiktigt,
+gett upphov till rullstensåsar, isälvsdeltan och mäk-      3. endast har en liten betydelse för att tillgodose
+tiga drumliner av morän. Drumlinernas avlånga val-         strandskyddets syften i eller i närheten av tätorter,
+ryggsform ligger högt i landskapet och är ofta en del
+av det odlade landskapet. Ubbhultsdrumlinen är ett         4. inte är ett kust- eller kustskärgårdsområde från
+sådant exempel.                                            gränsen mot Norge för Forsmark etc.
+
+
+Sid 4 (34)                 LIS Landsbygdsutveckling i strandnära lägen
+Det ska fortfarande finnas god tillgång till strand-               Inom angivna LIS-områden gäller också att dispens
+områden för allmänheten och förutsättningar för att                kan ges om:
+bevara goda livsvillkor för djur- och växtlivet. Redo-
+                                                                   § området tas i anspråk för byggnad/anläggning som
+visningen i översiktsplanen ska vara vägledande när
+                                                                     bidrar till landsbygdsutveckling,
+kommunen prövar dispenser från strandskydd och
+upphävande av strandskydd i detaljplaner.                          § området tas i anspråk för enstaka en- eller tvåbo-
+                                                                     stadshus med komplementbyggnader i anslutning
+                                                                     till befintligt bostadshus.
+STRANDSKYDD
+                                                                   I en detaljplan får kommunen bestämma att strand-
+Strandskydd innebär (enligt miljöbalken, MB kapitel
+                                                                   skyddet upphävs för ett område, om det finns sär-
+7) förbud mot att bygga nytt, ändra byggnader, gräva
+                                                                   skilda skäl och om behovet av att använda området
+eller fylla ut och ändra förutsättningar för naturvär-
+                                                                   är viktigare för samhället än strandskyddsintresset.
+den inom ett strandskyddat område. Syftet är också
+                                                                   Om en befintlig detaljplan ska ändras eller om en ny
+att värna det rörliga friluftslivet vid sjöar och vatten-
+                                                                   detaljplan ska göras över ett område med en gällan-
+drag. Det generella strandskyddet omfattar ett om-
+                                                                   de detaljplan där strandskyddet är upphävt, så trä-
+råde om 100 meter upp på land och ut i vattnet från
+                                                                   der strandskyddet in på nytt. För att återigen kunna
+strandkanten. Se vidare under avsnittet Strandnära
+                                                                   upphäva strandskyddet i den nya eller i den ändrade
+lägen.
+                                                                   detaljplanen krävs att något av de särskilda skälen är
+I Mark gäller utökat strandskydd till 300 meter för                uppfyllda.
+Kalven, Lygnern och Tolken. För Lilla och Stora Barr-
+sjön, Frisjön inklusive Tyvikssjön, Fävren, Hedgär-
+                                                                   STRANDNÄRA LÄGEN
+dessjön, Lilla Hornsjön, Lilla och Stora Horredssjön,
+Lilla och Stora Hålsjön, Stora Härsjön, Sandssjön,                 Strandskyddet ska långsiktigt trygga att människor
+Västra och Östra Öresjön gäller utökat strandskydd                 har tillgång till strandområden genom allemansrät-
+till 200 meter.                                                    ten. Allemansrätten är inskriven i en av Sveriges fyra
+                                                                   grundlagar, men är ingen egen lag. På allemansrätts-
+                                                                   ligt tillgänglig mark har allmänheten rätt att vara eller
+                                                                   passera fritt över och använda för att bada, ströva och
+                                                                   utöva annat friluftsliv. Dessutom ska strandskyddet se
+                                                                   till att goda livsvillkor för djur- och växtlivet bevaras.
+                                                                   Inom strandskyddade områden är det förbjudet att
+Figur 1. Strandskydd gäller 100 meter från strandlinjen. Det kan   bland annat att uppföra nya byggnader. Strandskyddet
+vara utökat till maximalt 300 meter i särskilda fall.              gäller vid alla kuster, sjöar och vattendrag.
+
+Det går enligt MB kap 7 att få dispens från strand-
+skyddet i samband med bygglov eller genom upphä-
+vande av strandskyddet i en detaljplan, om det finns
+särskilda skäl för detta. De särskilda skälen gäller om:
+§ området redan har tagits i anspråk på ett sätt som
+  gör att det saknar betydelse för strandskyddets syf-
+  ten,
+§ området genom en väg, järnväg, bebyggelse, verk-
+  samhet eller annan exploatering är väl avskilt från
+  området närmast strandlinjen,                                    Figur 2. Vissa områden som är avskiljda från strandområdet kan
+                                                                   ändå vara viktiga för friluftslivet.
+§ området behövs för en anläggning som för sin funk-
+  tion måste ligga vid vattnet och behovet inte kan
+  tillgodoses utanför området,
+§ området behövs för att utvidga en pågående verk-
+  samhet och utvidgningen inte kan genomföras ut-
+  anför området,
+§ området behöver tas i anspråk för att tillgodose ett
+  angeläget allmänt intresse som inte kan tillgodoses
+  utanför området,
+                                                                   Figur 3. Vid tätare bebyggelse är det viktigt att gränsen mellan
+§ området behöver tas i anspråk för att tillgodose ett             privat och allmänt är tydligt markerad, t ex genom en häck, ett
+  annat mycket angeläget intresse.                                 staket eller en trädridå.
+
+
+
+                                LIS Landsbygdsutveckling i strandnära lägen                                           Sid 5 (34)
+                                                                minuters bilresa från tätort, med fler än 3 000 invå-
+                                                                nare, räknas som tätortsnära landsbygd. Det gör att
+                                                                i stort sett hela Marks kommun kan räknas som tät-
+                                                                ortsnära landsbygd.
+                                                                Länsstyrelsen har bedömt att strandområden i och i
+                                                                anslutning till region- och delregionala centra samt
+                                                                större kommuncentra som också är orter med sta-
+                                                                dig positiv befolkningsutveckling inte ska anses vara
+                                                                landsbygdsområden. Kinna anges inte som ett sådant
+                                                                kommuncentra i länsstyrelsens råd om hantering av
+                                                                områden för landsbygdsutveckling i strandnära lä-
+                                                                gen (PM 2010-09-20), vilket innebär att hela Marks
+                                                                kommun i detta sammanhang kan ses som lands-
+                                                                bygd.
+
+
+                                                                LIS SOM STRATEGISK MÖJLIGHET
+                                                                LIS är ett strategiskt verktyg för utveckling av kom-
+Figur 4. Vid bestämning av fri passage ska det anpassas efter   munen där man vill skapa bättre förutsättningar för
+förutsättningarna på platsen.                                   bebyggelse i de fall strandskyddet kan utgöra ett hin-
+                                                                der för önskad och lämplig landsbygdsutveckling. Ut-
+Det ska alltid finnas en fri passage mellan bebyggelse          pekande av LIS-områden i en översiktsplan är inte ju-
+och stranden som ska vara så bred att allmänheten               ridiskt bindande, men väger tungt vid prövningar av
+kan ta sig fram utan att området ska kännas som pri-            strandskyddet och detaljplanering inom de utpekade
+vat. Det gäller också inom LIS-områden och inom de-             områdena.
+taljplaner där strandskyddet är upphävt. Det går att
+säkerställa den fria passagen genom att till exempel            Syftet med LIS är att skapa möjligheter för långsik-
+i en detaljplan kräva att staket eller mur byggs mel-           tiga positiva sysselsättningseffekter, eller att stärka
+lan enskilda tomter och den fria passagen. Den fria             och bevara underlaget för service på landsbygden,
+passagen ska anpassas till de verkliga förhållandena            genom ta tillvara stränders attraktionskraft och ska-
+i terrängen. Vid kraftiga sluttningar ner mot stranden          pa bostadsområden för att öka inflyttning och fritids-
+kan den fria passagen behöva göras bredare.                     boende.
+                                                                Delar av kommunen kan på sikt få problem med svik-
+LANDSBYGDSBYGDSUTVECKLING                                       tande underlag för service och handel och låg efter-
+                                                                frågan på bostäder. Det finns också områden där det
+Boverket och Naturvårdsverket har tagit fram en väg-            är önskvärt med en förtätning för att förstärka den
+ledning för att underlätta arbetet med LIS. Den anger           strukturbild som tagits fram i arbetet med den nya
+ingen tydlig definition på vad som menas med lands-             översiktsplanen. Det finns därför goda anledningar
+bygd eller utveckling. En tolkning av vägledningen              till att skapa bättre möjligheter att öka attraktions-
+kan vara att det redan ska finnas något på plats – ett          kraften i sådana områden:
+befintligt sammanhang – att utveckla. Det skulle till
+exempel kunna vara i eller nära befintlig bebyggelse            § Ändring av detaljplaner. Om kommunen önskar
+i form av tätorter, småorter eller annan sammanhål-               göra om eller ändra detaljplaner i orter, för att till-
+len bebyggelse. Det skulle också kunna vara utmed                 låta en kompletterande förtätning, ändra använd-
+eller nära stråk som kan vara långsiktigt strategiskt             ningen eller öka byggrätter, så träder strandskyd-
+intressanta att utveckla, eller utefter genomtänkta               det åter in. Det omöjliggör en önskad utveckling om
+länkar till knutpunkter och noder. Att ge möjlighet till          särskilda skäl för upphävande saknas.
+etablering eller utvidgning av verksamheter som har             § Utbyggnadsområden i fördjupade översiktsplaner
+fördelar av att ligga vid vatten, t ex turistverksamhet           (FÖP). I de fall kommunen har pekat ut utbyggnads-
+bör vanligtvis ses som utvecklande för landsbygden.               områden för t ex bostäder i en FÖP krävs något av
+Begreppet landsbygd definieras olika beroende på                  de särskilda skälen för att strandskyddet ska kun-
+sammanhang och ändamål. Statistiska centralby-                    na upphävas i en detaljplan. I annat fall kan de inte
+rån (SCB) har definierat tätorter som orter med                   bebyggas. De FÖP-områden som berörs av strand-
+minst 200 invånare med högst 200 meter mellan hu-                 skydd och som ännu inte är utbyggda bör övervä-
+sen. Småorter har mellan 50 till 200 invånare. Gles-              gas att pekas ut som LIS-område.
+bygdsverket har utgått från tillgängligheten till tätor-        § Utveckling av verksamheter. Om en verksamhet
+ter med fler än 3000 invånare. Områden inom 5-45                  som berörs av strandskydd vill växa kan det vara
+
+
+
+Sid 6 (34)                     LIS Landsbygdsutveckling i strandnära lägen
+ svårt om växandet inte sker inom den fastighet              anknytning. Det är därför viktigt att kommunen i sin
+ där verksamheten redan är etablerad. Obebyggda              planering är medveten om vad som finns på andra si-
+ tomter räknas inte som ianspråkstagna även om               dan gränserna och ser till möjligheten till att samver-
+ den gränsar till en pågående verksamheten. Sådana           ka mellan kommuner.
+ områden bör utredas som LIS-område.
+                                                             I översiktsplanen för Varbergs kommun har inga
+§ Ökad attraktivitet. Inom kommunen finns områden            LIS-områden pekats ut, men planens inriktning är att
+  med viss service, såsom livsmedelsbutiker, skola           stärka orter längs prioriterade kollektivtrafikstråk,
+  och barnomsorg där bebyggelsetrycket är så lågt            bland annat för att tekniska och andra kommunala
+  att servicens överlevnad bedöms vara hotad. Det            investeringar ska kunna utnyttjas effektivt.
+  gäller framför allt i kommunens sydöstra delar. Ge-
+  nom att möjliggöra strandnära boende kan attrak-           Härryda, Mölndals, Kungsbacka, Bollebygds kommu-
+  tiviteten för boende i områdena öka och därmed             ner har inte pekat ut LIS-områden i eller som tillägg
+  viljan att investera, så att den befintliga servicen får   till sina översiktsplaner.
+  ett ökat underlag för att kunna finnas kvar även på        Borås stad har föreslagit LIS-områden med utgångs-
+  lång sikt.                                                 punkt från sjöar som är större än tio hektar samt de
+§ Områden som stärker strukturbilden. Några om-              större vattendragen, bland annat Viskan.
+  råden i kommunen har ett relativt lågt bebyggel-           Svenljunga kommun har i förslag till tillägg till över-
+  setryck, men är intressant för förtätning eftersom         siktsplanen pekat ut LIS-områden i bland annat Sven-
+  det skulle stärka den strukturbild som tagits fram         ljunga, Örsås/ Redslared, Holsjunga, Fäxhult, Överli-
+  i översiktsplaneprocessen. Hyssna är ett exempel           da och Mjöbäck.
+  på en ort där en förtätning skulle vara strategiskt
+  mycket lämpligt.                                           Falkenbergs kommun har i förslag till ny översikts-
+                                                             plan pekat ut LIS-områden i bland annat Älvsered
+                                                             och Källsjö. Principer för urval har varit områden för
+Övriga förutsättningar                                       bostäder i eller nära viktiga kommunikationsstråk i
+                                                             inlandet, samt områden för verksamheter.
+BESLUTADE MÅL
+Marks kommunfullmäktige har fattat ett beslut som
+                                                             Påverkandefaktorer
+grund för översiktsplanens inriktning. Flera av dessa
+mål har kopplingar till arbetet med landsbygdsut-            SERVICE OCH SYSSELSÄTTNING
+veckling i strandnära lägen.
+                                                             Syftet med LIS för verksamheter är att öka möjlighe-
+                                                             ten att starta eller utöka verksamheter som ger fle-
+FÖRDJUPNING AV ÖVERSIKTSPLANER                               ra arbetstillfällen under längre tid. Turistverksam-
+                                                             heter kan vara direkt beroende av stränder för sin
+I kommunen har flera fördjupade översiktsplaner ta-
+                                                             verksamhet, såsom båtliv, bad och paddling, men de
+gits fram för tätorterna i kommunen. Fotskäl är den
+                                                             kan även dra nytta av den konkurrensfördel som en
+enda småort som omfattas av en egen FÖP.
+                                                             attraktiv strandmiljö kan ge. Även för service- och
+FÖP för Kinna, Skene, Örby antogs 2010 (laga kraft           tjänsteföretag (t ex konferensanläggningar och res-
+2012). Den gamla FÖP:en för centralorten Kinna som           tauranger) kan strandnära läge vara en fördel för att
+antogs 1990 gäller fortfarande för Berghem och Ry-           locka såväl besökare som arbetskraft.
+dal. FÖP:ar för Horred, Öxabäck, Torestorp och Fot-
+                                                             LIS syftar även till att ge möjlighet till att stärka eller
+skäl antogs 1991. FÖP för Björketorp antogs 1995.
+                                                             utveckla service som finns på landsbygden. Service
+FÖP för Fritsla antogs 1992 med ett tillägg 1995. FÖP
+                                                             kan vara offentlig som skolor, bibliotek och vårdcen-
+för Hyssna antogs 1996 och FÖP för Sätila antogs
+                                                             traler, eller kommersiell som handel, restauranger
+2003. Dessutom har en komplettering av översikts-
+                                                             och banker. Även kollektivtrafik räknas till service.
+planen gjorts för nordvästra delen av kommunen
+                                                             Utveckling av bostadsområden kan ge möjligheter
+(Mark NV), antagen 1997.
+                                                             till tätare bussturer, eller att befintliga bussturer som
+                                                             annars riskerar att försvinna behålls.
+MELLANKOMMUNALA FRÅGOR
+                                                             Verksamheter kan behöva etableras i områden som
+Gränser mellan kommuner och län är administrativa            är särskilt lämpliga för själva verksamheten och där
+och tas sällan hänsyn till i det praktiska vardagslivet      områdets unika karaktär kan utgöra grunden för
+för invånare eller besökare. Service används vanligt-        verksamhetens existens. Därför kan etablering eller
+vis där det lättast är tillgängligt, där utbudet är att-     utökning av verksamheter i sig vara ett fullgott skäl
+raktivt eller där invånare och besökare har någon            till att peka ut ett LIS-område.
+
+
+
+                            LIS Landsbygdsutveckling i strandnära lägen                                  Sid 7 (34)
+                                                                      ger nära sjöar, men flera av orterna berörs av strand-
+                                                                      skydd i form av närhet till betydande eller mindre
+                                                                      vatten drag såsom åar och bäckar. Dessa orter har oli-
+                                                                      ka status med avseende på service och verksamheter.
+                                                                      Generellt har tätorterna högre servicenivå i form av
+                                                                      skola/barnomsorg, butiker, äldreomsorg och kom-
+                                                                      munikationer. Samtliga tätorter och de småorter som
+                                                                      är länkade till stråk, se avsnitt Stråk och länkar, och
+                                                                      som berörs av strandskydd har därför föreslagits
+                                                                      som LIS-områden så att framtida utveckling av orter-
+                                                                      na inte begränsas.
+
+
+                                                                      STRÅK OCH LÄNKAR
+                                                                      Under arbetet med översiktsplanen har en struktur-
+                                                                      bild för Mark tagits fram, som hjälper till att skapa
+                                                                      en tydlighet om kommunens prioriteringar, se figur
+                                                                      7. Den tar sin utgångspunkt i behovet av att sam-
+                                                                      ordna kollektivtrafik och kommunikationer i priori-
+Figur 5. Livsmedelsbutiker (gul prick).                               terade stråk, och behovet av att samla bebyggelsen
+                                                                      till stråkens knutpunkt och i noderna, för att skapa
+                                                                      förutsättningar för ett ökande eller bibehållet befolk-
+BEFINTLIGA ORTER
+                                                                      ningsunderlag så att en hög kvalitet med service och
+I kommunen finns enligt Statistiska centralbyråns,                    kollektivtrafik kan upprätthållas och utvecklas.
+SCB (2010) definition tio tätorter och 15 småorter
+(se figur 6). Definitionen av en tätort enligt SCB är
+ett område med minst 200 invånare där avståndet
+mellan husen är mindre än 200 meter och där ande-
+len fritidshus är färre än 50 procent. Definitionen av
+småort är 50-199 invånare där det är högst 150 me-
+ter mellan husen.
+
+Tätorter          Inv     Småorter                            Inv
+Kinna/Skene      14776 Fotskäl                                164
+Fritsla          2293     Kråkered (Ubhult)                   150
+Horred           1271     Krok                                130
+Sätila           1059     Hägnen/Flyksnäs                     128
+Hyssna            638     Västergården                        117
+Björketorp        467     Almered/Bolg (Sätila)               111
+Rydal             402     Nätthult                             97
+Torestorp         419     Älekulla                             78
+Berghem           360     Lillaskog                            70
+Öxabäck           300     Svansjökulle/Bokeliden               68
+                          Sundholmen/Viskabacka                68
+                                                                      Figur 7: Översiktsplanens strukturbild.
+                          Stämmemad                            64
+                          Hajom                                64     Med hjälp av genomtänkta länkar till stråken i form
+                          Holmåkra/Hallagärde/Surteby          57     av pendelparkeringar, gång-/cykelvägar och kom-
+                          Kulla (Tostared)                     51     pletterande kollektivtrafik kan prioriterade stråk
+                                                                      stärka utvecklingen i hela kommunen. Utefter stråk
+Figur 6. Invånarantal i tätorter/småorter enligt SCB (2010) i Mark.
+                                                                      och länkar kan det vara lämpligt med nya bebyggel-
+                                                                      seområden för bostäder eller att komplettera befint-
+Definitionerna kan vara en vägledning i planering-
+                                                                      liga.
+en, men kan ibland uppfattas missvisande i de fall en
+ort enligt SCB inte överensstämmer med invånarnas                     Stråken utgörs av väg 41 och järnvägen från Varberg
+uppfattning av orter i verkligheten. Få av orterna lig-               mot Borås, samt väg 156 från Kinna mot Göteborg.
+
+
+
+Sid 8 (34)                        LIS Landsbygdsutveckling i strandnära lägen
+De orter som är länkade till stråken är Öxabäck, To-               KULTURMILJÖVÄRDEN
+restorp, Rydal, Skephult, Fotskäl, Sätila och Ubbhult.
+                                                                   Kulturmiljöintressen är inget generellt hinder för ex-
+                                                                   ploatering i sig, men har stor betydelse för omfatt-
+OMVANDLINGSOMRÅDEN                                                 ning och utformning av en eventuell exploatering.
+I kommunen finns ett antal områden med sammanhål-                  Påverkan kan vara svår att förutsäga i en översikts-
+len bebyggelse, där VA-försörjningen hittills lösts en-            plan och utreds bättre i en detaljplan. Länsstyrelsen
+skilt, antingen med helt enskilda lösningar eller genom            beslutar om tillstånd för påverkan på fasta fornläm-
+samfälligheter. Ursprungligen byggdes områdena i hu-               ningar.
+vudsak för sommarboende, men flera av fastigheterna
+har med tiden blivit permanentboende. Avsikten är att
+omvandlingsområdena ska förses med kommunalt vat-
+ten och avlopp via nya ledningsdragningar till kommu-
+nens gemensamma nät. Dessa områden bör studeras
+med avseende på lämplighet som LIS-områden.
+
+
+RIKSINTRESSEN
+Riksintressen är områden som bedömts ha värden
+av nationellt intresse. Ny bebyggelse får inte medföra
+oacceptabla störningar på områden för riksintresse.
+De riksintressen som berörs av föreslagna LIS-områ-
+den redovisas i figur 8.
+
+
+
+ Naturvård           Beskrivning
+
+ Ubbhultsdrum-       Stor drumlinbildning. Odlingslandskap med
+ linen               naturliga fodermarker.
+                                                                   Figur 9. Riksintresse för kulturmiljövård (rödstreckat), byggnads-
+                     Artrik sjö med resp meandrande å med hög      minnen (blå stjärnor), kulturreservat (rött område) och kommunala
+ Lygnern och
+                     biologisk funktion och artrikedom. Lek- och   bevarandeprogram (ljusrött område). Se även ÖP kapitel 8.4.
+ Storåns dalgång
+                     uppväxtområde för öring.
+
+                     Äng i mellanbygd med hackslått, naturbete
+ Lunden - Älekulla
+                     med hagmark.
+                                                                   FRILUFTSLIV
+                                                                   Det är vanligtvis olämpligt att peka ut LIS-områden
+ Viskans och         Odlingslandskap. Vid Assberg stort inslag
+                                                                   där riksintressen och lokala intressen för friluftsliv
+ Surtans dalgång     av naturbete. Viskan, Surtan Hornån, Lillån
+ med Assbergs-       och Iglabäcken är lek och uppväxtområde       påverkas på ett oacceptabelt sätt. I vissa fall kan dock
+ ravinerna           för lax och havsöring.                        en utbyggnad inom sådana områden stärka det rörli-
+                                                                   ga friluftslivet, t ex vid etablering eller utbyggnad av
+ Friluftsliv         Beskrivning                                   turistverksamheter och camping.
+
+ Lygnern och         Omväxlande natur lämplig för bad, båts-
+ Storåns dalgång     port, fske och att ströva.                    VATTENSKYDDSOMRÅDEN
+                                                                   För att säkra dricksvattenförsörjningen, nu och i
+ Kulturmiljö-
+                     Beskrivning                                   framtiden, har särskilda vattenskyddsområden in-
+ vård
+                                                                   rättats. Till varje vattenskyddsområde finns det be-
+                     Vägmiljö av stor betydelse för kommuni-       stämmelser som reglerar verksamheter och åtgärder
+ Viskastigen         kationerna mellan Hallandskusten och de       som skulle kunna förorena vattnet. Inom vissa delar
+                     västgötska centralbygderna.                   av vattenskyddsområden är det ofta möjligt att ex-
+                                                                   ploatera men det är viktigt att undersöka vilka regler
+ Häggåns dal-        Odlingslandskap med en koncentration av
+                                                                   som gäller för den aktuella platsen.
+ gång                sk ”förläggargårdar”.
+
+                     Kyrko- och bymiljö med väl sammanhållen       NATURVÄRDEN
+ Hyssna
+                     outskiftad bebyggelse.
+                                                                   Värdefulla naturområden som Natura 2000, riks-
+Figur 8. Riksintressen som föreslagna LIS-områden berör.           intressen för naturvården, natur med biotopskydd,
+
+
+
+
+                                 LIS Landsbygdsutveckling i strandnära lägen                                          Sid 9 (34)
+områden upptagna i Naturvårdsprogrammet och na-                      KOMMUNIKATIONER
+turreservat kan förhindra eller begränsa möjligheten
+för LIS.                                                             Ett LIS-område är olämpligt om riksintressen för
+                                                                     kommunikationer riskerar att påverkas negativt. Väg
+                                                                     41 är utpekad som rekommenderad primär väg för
+                                                                     transport av farligt gods och väg 156 som sekundär
+                                                                     väg. Dessa är starkt trafikerade och exploateringar
+                                                                     närmare än 150 meter kommer att innebära höga
+                                                                     krav på utredningar för att minimera riskerna med
+                                                                     avseende på säkerhet och hälsa.
+
+
+                                                                     ENERGIDISTRIBUTION
+                                                                     Områden för landsbygdsutveckling bör inte påverka
+                                                                     möjligheten till befintlig storskalig energidistribu-
+                                                                     tion som t ex elledningar.
+
+
+                                                                     KONFLIKTOMRÅDEN
+                                                                     Kommunen bör vara restriktiv med exploatering för
+                                                                     bostäder i närheten av verksamheter som kan ha ne-
+                                                                     gativ påverkan på människors hälsa genom bland an-
+                                                                     nat buller, vibrationer, lukt och ljus. Exempel på så-
+                                                                     dana verksamheter är vindkraftverk, täkter, större
+Figur 10. Riksintresse för naturvårdvård (vågräta streck), Natura    djurbesättningar, starkt trafikerade vägar, industri-
+2000-områden (vågräta mörkgröna streck), naturminne (cerise          er mm. Det är viktigt att de riktvärden och rekom-
+prick), naturreservat (grönt område) och bevarande av odlingsland-
+skapet (gult område). Se även ÖP kapitel 8.4.
+                                                                     mendationer på skyddsavstånd som finns för sådana
+                                                                     verksamheter följs för att minimera olägenheter för
+                                                                     de boende.
+JORDBRUKSMARK
+Jordbruksmark har ett särskilt skydd enligt kapitel 3
+miljöbalken. Bebyggelse på jordbruksmark kräver att
+                                                                     PÅVERKAN PÅ MILJÖKVALITETSMÅLEN
+det finns ett särskilt angeläget allmänt intresse. Bo-               Ingen övergödning. Några av de föreslagna LIS-om-
+stadsbebyggelse bör accepteras om jordbrukets be-                    rådena kan medföra viss ökad övergödning på grund
+hov tillgodoses. Ny exploatering bör ske vid befintlig               av ökad trafik, då dessa saknar eller har mycket be-
+bebyggelse, i anslutning till vägar eller vid skogsbryn              gränsad tillgång till kollektivtrafik.
+och andra gränszoner.
+                                                                     Grundvatten av god kvalitet. Se målet Levande sjöar
+På jordbruksområden med höga natur- respektive                       och vattendrag nedan.
+kulturvärden kan bostäder accepteras om områdets
+                                                                     Giftfri miljö. Giftiga ämnen kan sköljas ut i vatten-
+naturvärden och den kulturhistoriska miljön kan be-
+                                                                     drag från byggnader, bilar mm vid översvämningar.
+varas.
+                                                                     Inget av de föreslagna områdena ligger inom områ-
+                                                                     den med översvämningsrisker vid 100 och 200-års-
+RISKOMRÅDEN                                                          flöden som redovisats i karteringar 2011-2012.
+Områden med risk för översvämning, skred, radon-                     Levande sjöar och vattendrag. Sjön Lygnern har
+riskområden och potentiellt förorenad mark med                       god ekologisk och kemisk status. Ljungaån vid Hana-
+risk för människors hälsa, är normalt mindre lämp-                   torps camping har otillfredsställande status. Alla öv-
+liga för bebyggelse. Det finns dock osäkerheter i                    riga berörda sjöar och vattendrag har måttlig ekolo-
+klassningar av sådana områden, vilket innebär att de                 gisk status. Med undantag för Lygnern är övriga sjöar
+tillsvidare ändå kan pekas ut som lämpliga. Om det                   och vattendrag oklassade vad gäller kemisk status.
+senare blir aktuellt med exploatering i ett sådant om-               (VISS, preliminär status 2015). En utbyggnad av bo-
+råde bör vidare utredningar om risker redovisas i en                 städer förutsätter att bebyggelsen ansluts till kom-
+detaljplan. Särskilda krav kan då ställas på åtgärder                munalt VA eller till gemensamma anläggningar där
+eller byggnaders utformning där det är nödvändigt.                   det är lämpligt.
+
+
+
+
+Sid 10 (34)                     LIS Landsbygdsutveckling i strandnära lägen
+God bebyggd miljö. De utpekade områdena syftar               lemansrättsliga tillgängligheten värnas genom bl a
+till att förtäta eller komplettera befintlig intilliggande   att en tillräcklig fri passage utmed stränderna ska sä-
+bebyggelse vilket skapar möjlighet till en effektiv in-      kerställas.
+frastruktur. I alla områden finns närhet till natur- och
+                                                             Myllrande våtmarker. Några av de föreslagna om-
+grönområden. I några områden kan en utbyggnad
+                                                             rådena ligger nära våtmarker med rikt djurliv. Vid
+medföra mer buller och ökad biltrafik, då de saknar
+                                                             planläggning av dessa områden bör ett tillräckligt
+eller har mycket begränsad tillgång till kollektivtra-
+                                                             respektavstånd till våtmarkerna säkerställas.
+fik.
+                                                             Ett rikt växt- och djurliv. Vid en utbyggnad ska höga
+Levande skogar. Lövskogsområden med mycket
+                                                             naturvärden bevaras. Genom att bygga tätt och ytef-
+höga naturvärden bör inte exploateras för bebyggel-
+                                                             fektivt inom ett område bedöms påverkan på målet
+se. Vid sjöar och vattendrag ska friluftsliv och den al-
+                                                             bli liten.
+
+
+
+
+                            LIS Landsbygdsutveckling i strandnära lägen                             Sid 11 (34)
+3. FÖRSLAG
+Urvalsprocess                                                 Generella regler och rekommen-
+De föreslagna områdena har vägts mot kriterierna              dationer
+för lämpliga och olämpliga områden för LIS och sam-
+manställts i denna utredning. Vid urval av områden            I detta kapitel redovisas förslag till lämpliga områ-
+har de antagna fördjupningarna av översiktsplanen,            den för landsbygdsutveckling i strandnära lägen.
+kommunens vardagslivskartläggning, inriktningsbe-             En översikt över LIS-områden i kommunen finns på
+slutet för den nya översiktsplanen och förslag till ny        nästa sida. De föreslagna områdena skildras med en
+översiktsplan utgjort viktiga underlag.                       kort karaktärisering av områdenas förutsättningar
+                                                              och varför de är lämpliga som LIS-områden. För var-
+Vid tidigt samråd med Länsstyrelsen i Västra Göta-            je område ges rekommendationer om områdets an-
+land konstaterades att kommunens kriterier för ur-            vändning och eventuella restriktioner samt vilken vi-
+val av LIS-områden är väl underbyggda. Vidare kon-            dare utredning av området som behövs.
+staterades att kommunen inte bör peka ut områden
+i Kinna och Skene där särskilt skäl 5 för dispens från        De utredningar som görs i samband med detaljpla-
+strandskyddet enligt miljöbalken kapitel 7 § 18c kan          nering eller enstaka bygglovsansökningar kan i vissa
+användas, se avsnittet Landsbygdsutveckling, sidan 6.         fall visa att det är olämpligt att bebygga delar av ett
+                                                              LIS-område. En översiktsplan är övergripande och
+                                                              strategisk, där alltför djupgående detaljer inte kan
+Kriterier för urval                                           hanteras. Sådant lämpar sig bättre att utreda i en de-
+                                                              taljplaneprocess. Översiktsplanen blir annars alltför
+Kriterierna utgår från de påverkande faktorerna för
+                                                              omfattande och oflexibel.
+LIS. De utgör utgångspunkten för de slutgiltiga för-
+slagen till LIS-områden. Något av kriterierna för             Totalt föreslås sju områden med 19 delområden som
+lämpligt område måste vara uppfyllt för ett LIS-om-           lämpliga för landsbygdsutveckling. Ett område som
+råde.                                                         föreslås innebär ökade möjligheter att bygga strand-
+                                                              nära. Det är en chans för markägare och exploatörer
+                                                              att ta initiativ till byggprojekt, och för byar, små- och
+KRITERIER FÖR LÄMPLIGT OMRÅDE
+                                                              tätorter att förbättra underlag för service och han-
+Områden som:                                                  del. Trycket på strandnära boende är sannolikt inte
+                                                              så stort att alla områden på kort sikt blir intressanta
+§ ligger i anslutning till eller nära befintliga stråk, el-
+                                                              för exploatering.
+  ler i orter länkade till stråk,
+                                                              15 av de föreslagna delområdena anges som lämp-
+§ ger möjlighet att etablera eller utöka verksamheter
+                                                              liga för blandad bebyggelse som kan innehålla både
+  som skapar arbetstillfällen,
+                                                              bostäder, service och verksamheter som inte är stö-
+§ kan bidra till till ökat underlag för service,              rande. Sammanlagt kan dessa områden rymma cir-
+                                                              ka 210-410 nya bostäder beroende på byggnads-
+§ utgör omvandlingsområden för VA,
+                                                              sätt. I framtagandet av rekommendationer för antal
+§ ligger i vid/i befintliga tät- och småorter.                nya bostäder för respektive område har jämförelser
+                                                              gjorts med exploateringsgrad av liknande områden
+                                                              i kommunen. Hänsyn har också tagits till exempel-
+KRITERIER FÖR OLÄMPLIGT OMRÅDE
+                                                              vis platsens karaktär, om delar av området är avskilt
+§ LIS-områden ska inte påverka värdefull natur nega-          från stranden med väg eller befintliga byggnader så
+  tivt. Särskilt olämplig är natur av riksintresse eller      att en högre exploatering lokalt kan accepteras, och
+  naturområden inventerade som lokalt eller regionalt         avstånd till bra kollektivtrafik.
+  värdefulla.
+                                                              Det rekommenderade antalet byggnader bör inte ses
+§ Stor restriktivitet för bostadsbyggande ska råda            som exakt, utan snarare som en rimlig uppskattning
+  inom 150 meter från väg 41 och 156.                         av vad respektive område kan tåla och vad kommu-
+                                                              nen tycker är en lämplig utveckling av områdena med
+§ Stor restriktivitet för bostadsbyggande ska råda inom
+                                                              hänsyn till avstånd från tätorter och stråk och hur de
+  100 meter från 400 kilovolts högspänningsledning.
+                                                              kan bidra till landsbygdsutvecklingen. Bostäder av-
+§ Stor restriktivitet för bostadsbyggande ska råda nära       ser ingen särskild typ av bostad (helårsboende eller
+  verksamheter som kan påverka människors hälsa               fritidshus) eller upplåtelseform (hyresboende, egna-
+  negativt.                                                   hem etc). Blandade upplåtelseformer och helårsbo-
+
+
+
+
+Sid 12 (34)                 LIS Landsbygdsutveckling i strandnära lägen
+ende bör dock uppmuntras i mesta möjliga mån. Fyra          verka vattenstatusen negativt i någon av sjö, vatten-
+delområden anges som lämpliga för utveckling av             drag eller grundvattenförekomst. För LIS-områden
+verksamheter för utveckling av befintlig turistnäring.      som ligger inom översiktsplanens avrinningsområ-
+                                                            den, gäller dessutom att särskild hänsyn ska tas till
+LIS ger inte automatiskt rätt att bygga inom strand-
+                                                            vattenkvaliteten vid prövning av ny bebyggelse och
+skyddat område. Exploateringsintresset ska vägas
+                                                            andra åtgärder. Det gäller framför allt prövning av
+mot naturvårds- och friluftsintressen även inom ett
+                                                            bebyggelse med större bedömd påverkan. Med ut-
+föreslaget LIS-område och den fria passagen måste
+                                                            gångspunkt från karaktären på föreslagen bebyg-
+alltid säkerställas.
+                                                            gelse eller verksamhet, marktekniska förhållanden
+En exploatering får inte medföra oacceptabla stör-          och berört vattendrags status, kan alternativ lokali-
+ningar på skyddade områden. En naturvärdesinven-            sering och/eller åtgärder avseende t ex markytans
+tering ska alltid ske inom strandskyddsområden som          genomsläpplighet, dagvattenhantering, avloppshan-
+ska bebyggas, även LIS-områden. Det gäller oavsett          tering, byggnadsmaterial etc föreslås. Som underlag
+om det handlar om exploatering för ett eller flera hus      används t ex utredning av geotekniska förhållanden,
+som handläggs i förhandsbesked, bygglov eller i en          dagvattenförhållanden, ev föroreningar etc.
+detaljplaneprocess.
+                                                            Några av förslagen har pekats ut som LIS-områden
+Stor restriktivitet ska generellt iakttas mot åtgärder      helt eller delvis för att de innefattar befintliga äldre
+som kan motverka riksintressen enligt den nya över-         detaljplaner, där strandskyddet idag är upphävt, men
+siktsplanen och mot åtgärder som kan påverka fasta          där strandskyddet träder in om planerna ändras el-
+fornlämningar negativt.                                     ler om man tar fram nya planer. LIS skapar på så sätt
+                                                            utrymme för en flexibilitet i framtiden för hur kom-
+I de fall LIS-områden sträcker sig ut i vattenområdet
+                                                            munen vill hantera sina planlagda områden, så att en
+ska inte byggnader tillåtas inom den fria passagen el-
+                                                            önskad förtätning eller annan utveckling av orterna
+ler i vattnet annat än för ändamål som alltid är helt
+                                                            inte förhindras.
+tillgängliga för allmänheten, exempelvis öppna bryg-
+gor, öppna omklädningsrum och liknande. Byggna-             Gränserna för de föreslagna områdena ska inte ses
+der och anläggningar (t ex bryggor, trädgårds- och          som exakta. Vid planläggning ska en noggrannare
+markanläggningar) som är privata eller har en priva-        bedömning göras för en lämplig utformning och ut-
+tiserande karaktär ska inte tillåtas inom den fria pas-     sträckning av en exploatering.
+sagen eller i vattenområdet.
+                                                            Generellt ska en fri passage på minst 30 meter hål-
+Utsläpp, avlopp eller dagvattenavrinning till följd         las utmed stranden i föreslagna områden för blandad
+av ny bebyggelse och andra åtgärder får aldrig på-          bebyggelse, där inget annat anges.
+
+
+
+
+                                    LIS 06         LIS 05
+
+
+
+
+                                      LIS 07                   KINNA
+
+                                               LIS 12
+
+
+
+
+                                                            LIS 03
+
+
+
+
+                                                                 LIS 09
+                                                                              LIS 10
+
+
+
+
+Figur 9. Samtliga LIS-områden.
+
+
+
+                                 LIS Landsbygdsutveckling i strandnära lägen                        Sid 13 (34)
+LIS 03 Hanatorp - Krok - Östra Öresjön (03C och E) och Kalven (03B och D) har
+                         måttlig ekologisk status. Ljungaån har otillfredsstäl-
+
+Haby
+                         lande status. Vid exploatering ska särskild hänsyn tas
+                         till marktekniska förhållanden. Åtgärder avseende
+                                                                    markytans genomsläpplighet, dagvattenhantering,
+                                                                    avloppshantering etc ska väljas så att den ekologiska
+ÖVERSIKTLIG BESKRIVNING
+                                                                    statusen i sjöarna och Ljungaån inte försämras.
+                            Örby ligger cirka fyra kilo-
+                            meter söder om Kinna och
+                            öster om Skene i ett kupe-
+                                                                    LIS-områden för verksamheter
+                            rat landskap och karaktär-
+                            iseras av småskalighet. Här             03A HANATORP
+                            finns strukturer från det
+                                                                    Vid camping- och konferensanläggningen vid Östra
+                            äldre medeltida bonde-
+                                                                    Öresjöns norra ände. Skyddsområdet för Örby vatten-
+                            samhället från 1500-talet
+                                                                    täkt (primär zon) sträcker sig in i området, vilket står
+                            kvar i form av gårds- och
+                                                                    i konflikt med en utbyggnad. Vårsidenbin och fladder-
+                            bybebyggelse kring Örby
+                                                                    möss har observerats utmed stranden. Ljungaåns ut-
+kyrka. Centrum finns numera vid Örbyskolan och utmed
+                                                                    lopp är en viktig rast- och häckningslokal för många
+Kinnavägen.
+                                                                    fågelarter, bl a mindre strandpipare, vilken också hy-
+I Örby finns ett måttligt utbud av service. Här finns               ser flodpärlmussla, havsvandrande lax och öring. Ge-
+grundskola, förskola, idrottshall och en livsmedels-                nom området går vandringslederna Älgstigen och ku-
+butik. Söder om centrum finns även en välbesökt                     rirleden. Naturvärden, se Bilaga, bild 24, sidan 29.
+campingplats samt en konferensanläggning i Östra
+Öresjöns norra delar. Vid Skutesjön mellan Örby och                 REKOMMENDATIONER
+Kinna finns uppskattade vandringsleder. Från Örby
+                                                                    Området föreslås för att möjliggöra framtida utvid-
+kan man ta sig med buss till Skene och Kinna, samt
+                                                                    gning och ändring av den befintliga turistverksam-
+till Göteborg, Svenljunga och Tranemo.
+                                                                    heten. En fri passage på minst 50 meter utmed stran-
+En fördjupad översiktsplan (FÖP) har gjorts för Kin-                den ska säkerställas vid planläggning. Ytterligare
+na, Skene och Örby (2012). Östra Öresjön har pekats                 bryggor ska alltid vara allmänt tillgängliga och får
+ut av Länsstyrelsen som särskilt värdefullt vatten för              inte ges en privatiserande utformning. Området ska
+naturvård och fiske. Här finns reproduktion av in-                  utformas så att förutsättningar för naturvärdena res-
+sjööring och representativ fiskefauna. Under häck-                  pektive vattentäkten inte hotas.
+ningstid förekommer småskrake och fisktärna. Östra
+Öresjön och Kalven har utökat strandskydd till 300                  MOTIVERING
+meter. Inga riksintressen berörs, men området har
+                                                                    Hanatorps camping- och konferensanläggning är en
+föreslagits av Länsstyrelsen som riksintresse för fri-
+                                                                    välskött och populär verksamhet som funnits i många
+luftslivet.
+
+
+
+
+                                                                                          LIS 03A
+                                                                                          HANATORP
+
+
+
+
+                                                                                                       Skala 1:10 000
+Figur 12. LIS-område 03A. Föreslaget LIS-område inom röd prickad linje. Mörkblå linje visar strandskyddsområde.
+Skrafferat område är fri passage, 50 meter från strandlinjen.
+
+
+
+Sid 14 (34)                    LIS Landsbygdsutveckling i strandnära lägen
+år. Det är av stor vikt att verksamheten ges möjlighet             bostäder i 03B och 30-50 i 03D. Områdena bör ut-
+att utvecklas, då den utgör en viktig del av turistnä-             formas småskaligt och smälta in i omgivande natur
+ringen i kommunen. Området innefattar idag bad och                 och bebyggelse. Området bör anslutas till kommu-
+bryggor som är allmänt tillgängliga. En utökning av                nens VA-nät eller till gemensamma VA-anläggning-
+verksamheten bedöms inte försämra tillgängligheten.                ar. Allmänhetens tillgänglighet säkerställs genom att
+                                                                   området inte omfattar den fria passagen på 30 meter
+                                                                   från strandområdet. För att motverka privatisering
+LIS-områden för blandad                                            av stranden bör ytterligare krav ställas i detaljplan
+bebyggelse                                                         eller som villkor i förhandsbesked på att vägar eller
+                                                                   gång- och cykelvägar anordnas mellan bebyggelsen
+                                                                   och strandområdet, eller att staket måste byggas i
+03B VÄNNÅKRA OCH 03D HABY                                          tomtgräns mot strandområdet.
+Området 03D ligger vid västra delen av sjön Kalven
+och område 03B mellan Kalven och Östra Öresjön.                    MOTIVERING
+Området ligger inom skyddsavstånd tre kilometer till               Områdena är utredningsområden för bostäder i FÖP
+Örestens flygplats. Båda områdena har cirka 1,8 kilo-              för Kinna, Skene, Örby, samt omvandlingsområden
+meter till närmast busshållplats.                                  för kommunalt vatten och avlopp. De föreslås som
+Norra delen av område 03B pekades 1994 ut av då-                   LIS-områden för att säkerställa möjligheten till ut-
+varande länsstyrelsen i Älvsborg som ett värde-                    byggnad enligt FÖP. De ligger relativt nära tätorterna
+fullt kulturlandskap kring Örby kyrka med höga                     Skene och Örby och är idag bebyggda med fritids- och
+naturvärden. Södra och norra delen har pekats                      årentrunthus. Genom att möjliggöra ny bebyggel-
+ut i Länsstyrelsens lövskogsinventering, klass 3.                  se kan underlaget för skola, barnomsorg och handel
+Naturvärden, se Bilaga, bild 25, sidan 29.                         stärkas framför allt i Örby.
+                                                                   Biltrafiken kan förväntas öka från området. Då av-
+REKOMMENDATIONER                                                   ståndet till närmaste busshållplats är knappt två ki-
+Jordbruksmarken i områdena bör undvikas för ut-                    lometer bör goda förbindelser till hållplatser och no-
+byggnad. Hänsyn ska tas vid placering och utform-                  der med cykelvägar och pendelparkering i Skene och
+ning av bebyggelseområden till natur och kulturvär-                Örby ses över för att underlätta för användande av
+den. De kan vara lämpliga för blandad bebyggelse i                 kollektivtrafik.
+anslutning till befintlig bebyggelse med 20-40 nya
+
+
+
+                                                                                                             LIS 03B
+                                                                                                             VÄNNÅKRA
+
+
+             LIS 03D
+             HABY
+
+
+
+
+                                                                                                                Skala 1:10 000
+Figur 13: LIS-område 03B och 03D. Föreslagna LIS-områden inom röd prickad linje. Mörkblå linje visar strandskyddsområde.
+
+
+
+
+                               LIS Landsbygdsutveckling i strandnära lägen                                        Sid 15 (34)
+03C KROK OCH 03E SOLVIK                                             småskaligt och anslutas till kommunens VA-nät inn-
+                                                                    an ny sammanhållen bebyggelse kan bli aktuell. All-
+Områdena ligger på nordöstra sidan av Östra Öre-
+                                                                    mänhetens tillgänglighet bör säkerställas på samma
+sjön utmed Öresjövägen. Kring Krokån i norra delen
+                                                                    sätt som för områdena 03B och 03D.
+av 03C finns värdefulla strandmiljöer med ett fler-
+tal skyddsvärda lavar och mossor. Ål, öring, elritsa,
+                                                                    MOTIVERING
+strömstare, forsärla är knuten till ån.
+                                                                    Områdena föreslås för att möjliggöra utvidgning och
+Här finns också ekskog klass 3 i lövkogsinventering-
+                                                                    ändring av befintliga bostadsområden. Området lig-
+en. Vandringsleden Älgstigen går genom områdena.
+                                                                    ger i nära anslutning (ca två kilometer) till tätorten
+Det finns busshållplatser inom båda föreslagna                      Örby och är idag bebyggda med fritids- och åren-
+LIS-områdena.                                                       trunthus.
+Naturvärden, se Bilaga, bild 26, sidan 30.                          Genom att möjliggöra ny bebyggelse kan underlaget
+                                                                    för skola, barnomsorg och handel stärkas i Örby. Inga
+REKOMMENDATIONER                                                    riksintressen berörs.
+Områdena kan vara lämpliga för blandad bebyggelse                   Då bussturtätheten är relativt hög genom och intill
+i anslutning till befintlig bebyggelse med sammanlagt               området förväntas en utbyggnad endast ge en mar-
+20-30 nya bostäder. Området bör utformas relativt                   ginell ökning av biltrafik.
+
+
+
+
+                                                                                                LIS 03C
+                                                                                                KROK
+
+
+
+
+                               LIS 03E
+                               SOLVIK
+                                                                                                       Skala 1:10 000
+Bild 14. LIS-område 03C och LIS 03E. Föreslagna LIS-områden inom röd prickad linje. Mörkblå linje visar strandskyddsområde.
+
+
+
+
+Sid 16 (34)                    LIS Landsbygdsutveckling i strandnära lägen
+LIS 05 Hyssna – Stjärn-                                    vård. Melltorps radby, Hyssna gamla kyrka och Lockö
+                                                           kvarn är bevarandevärd kulturmiljö av riksintresse.
+
+hult – Flybacka                                            Mindre delar av norra och södra änden av område
+                                                           05B kan inte klassas som tillfredsställande eller till-
+                                                           räckligt utrett med avseende på geoteknisk stabilitet.
+ÖVERSIKTLIG BESKRIVNING                                    Naturvärden, se Bilaga, bild 27-28, sidan 30-31.
+                            Hyssna är en tätort cirka      REKOMMENDATIONER
+                            17kilometernordväst om
+                            Skene vid väg 156, be-         05A Melltorp är lämpligt för blandad bebyggelse i an-
+                            läget i Surtans dalgång.       slutning till befintlig bebyggelse med ett tjugotal nya
+                            Landskapet domineras           bostäder. Det bör utformas småskaligt och anpassas
+                            av jordbruksmarker. Runt       till omgivningen. Särskild hänsyn ska tas till bebyg-
+                            dalgången reser sig skogs-     gelsemiljön i Melltorps radby. LIS-områdets gräns
+                            klädda höjder och formar       mot Surtan ligger 50 meter från strandlinjen.
+                            en vacker och storslagen       05B Hyssna är lämpligt för blandad bebyggelse som
+                            landskap. Stjärnhult och       inte är störande och för centrumbebyggelse. Lämp-
+Balltjärn är bostadsområden, ursprungligen bebyg-          lig exploatering kan variera mellan 40-60 nya bostä-
+gda med fritidshus cirka fyra kilometer nordväst om        der beroende på byggnadssätt. Detaljerad geoteknisk
+Hyssna.                                                    utredning bör göras i samband med detaljplanering.
+Flybacka, Stjärnhult och Balltjärn är tämligen glest       Vid exploatering ska en fri passage på minst 50 meter
+bebyggda och har en utspridd bebyggelse. Hyssna            säkerställas vid planläggning.
+har något tätare bebyggelse i centrum, med bland an-       Hänsyn ska tas till riksintressena för natur och kultur.
+nat skola, förskola och restaurang blandat med små-        Ny bebyggelse ska anslutas till kommunens VA-nät.
+skalig bostadsbebyggelse. Bebyggelsetrycket är ge-         En bestämmelse i detaljplan eller villkor i förhands-
+nerellt lågt. Utmed väg 156, någon kilometer sydväst       besked om krav på staket i tomtgräns mot strandom-
+om Hyssna centrum finns en välsorterad lanthandel.         rådet kan vara nödvändig för att säkerställa den fria
+Till och från Hyssna kan man ta sig med buss mot           passagen.
+Kinna, Göteborg och Sätila. Från område 05A är det
+cirka 1,9-2,5 kilometer till närmaste busshållplats        MOTIVERING
+(vid väg 156), från område 05B cirka 600-800 meter,
+från område 05C cirka 600-1100 meter, från områ-           Områdena ligger i och i anslutning till en befintlig
+de 05D cirka 800 meter och område 05E cirka 600            tätort, men också i anslutning till de stråk som illus-
+meter från närmaste busshållplatser. Det finns goda        trerats i strukturbilden, se figur 7. Huvuddelen av
+möjligheter till pendling med kollektivtrafik från alla    områdena är föreslagna utbyggnadsområden i FÖP
+områden med hög turtäthet.                                 Hyssna. Områdena föreslås för att möjliggöra utvid-
+                                                           gning och ändring av befintliga bostadsområden. Ge-
+En fördjupad översiktsplan har gjorts för Hyssna,          nom att möjliggöra ny bebyggelse kan underlaget för
+antagen 1996. Härsjön och Sandsjön har ett utökat          skola, barnomsorg och handel stärkas i Hyssna.
+strandskydd till 200 meter. Härsjön och Surtan har
+måttlig ekologisk status och för övriga vatten saknas      En utbyggnad bör medföra endast marginell trafi-
+klassning. Vid exploatering ska särskild hänsyn tas så     kökning. För område 05A bör tillgång till god pendel-
+att Härsjöns och Surtans status inte påverkas nega-        parkering vid Sandvad ses över för att underlätta för
+tivt av förslaget.                                         användande av kollektivtrafik.
+
+
+LIS-områden för blandad                                    05C STJÄRNHULT, 05D FLYBACKA OCH
+                                                           05E BALLTJÄRN
+bebyggelse
+                                                           05E ligger alldeles intill väg 156 medan 05C ligger
+                                                           några hundra meter väster om vägen, vid Härsjön.
+05A MELLTORP OCH 05B HYSSNA                                05D är ett mindre bostadsområde två kilometer sö-
+Båda områdena ligger utmed Surtan. Melltorp ligger         der om Stjärnhult vid Sandsjöns södra sida. Natur-
+knappt en kilometer norr om Hyssna centrum på väs-         värden, se Bilaga, bild 29-30, sidan 31.
+tra sidan om Surtan och Lockö i och i anslutning till
+centrum. Kring Surtan finns mycket höga naturvär-          REKOMMENDATIONER
+den, bl a vandrande lax och öring, utpekad som sär-        Områdena 05C, 05D och 05E kan vara lämpliga för
+skilt värdefullt vatten för natur och fiske. Viskans och   blandad bebyggelse i anslutning till befintlig bebyg-
+Surtans dalgång omfattas av riksintresse för natur-
+
+
+                           LIS Landsbygdsutveckling i strandnära lägen                             Sid 17 (34)
+gelse med 10-20 nya bostäder i 05C respektive 05D                   MOTIVERING
+och 5-10 i 05E. De bör utformas småskaligt och smäl-
+                                                                    De föreslagna områdena i ligger intill stråket väg 156.
+ta in i omgivande natur och bebyggelse. Områdena
+                                                                    På lång sikt är de föreslagna som omvandlingsom-
+bör anslutas till kommunens VA-nät eller gemen-
+                                                                    råden för kommunalt vatten och avlopp. Områdena
+samma VA-anläggningar innan ny sammanhållen be-
+                                                                    har föreslagits för att möjliggöra utvidgning och änd-
+byggelse kan bli aktuell. Allmänhetens tillgänglighet
+                                                                    ring av det befintliga bostadsområdet intill ett viktigt
+säkerställs genom att området inte omfattar den fria
+                                                                    kommunikationsstråk och bör endast medföra en
+passagen på 30 meter från strandområdet. För att
+                                                                    marginell ökning av bilåkande. Genom att möjliggöra
+stranden inte ska riskera att privatiseras bör ytter-
+                                                                    ny bebyggelse kan underlaget för skola, barnomsorg
+ligare krav ställas i detaljplan eller som villkor i för-
+                                                                    och handel stärkas i Hyssna.
+handsbesked på att vägar eller gång- och cykelvägar
+anordnas mellan bebyggelsen och strandområdet, el-
+ler att staket måste byggas i tomtgräns mot strand-
+området.
+
+
+
+
+                                                                                                       Skala 1:10 000
+Figur 17. LIS-område 05A. Föreslagna LIS-områden inom röd prickad linje. Mörkblå linje visar strandskyddsområde.
+
+
+
+
+                                                                       LIS 05D
+                                                                       FLYBACKA
+
+
+
+
+                                                                                                       Skala 1:10 000
+Figur 18. LIS-område 05D. Föreslaget LIS-område inom röd prickad linje. Mörkblå linje visar strandskyddsområde.
+
+
+
+Sid 18 (34)                    LIS Landsbygdsutveckling i strandnära lägen
+                                                                                              LIS 05B
+                                                                                              HYSSNA
+
+
+
+
+                                                                                          Skala 1:10 000
+Figur 16. LIS-område 05B. Föreslaget LIS-område inom röd prickad linje. Mörkblå linje visar strandskyddsområde.
+Skrafferat område är fri passage 50 meter från strandlinjen.
+
+
+
+
+          LIS 05C
+          STJÄRNHULT
+
+
+
+
+                                                      LIS 05E
+                                                      BALLTJÄRN
+
+
+                                                                                          Skala 1:10 000
+Figur 17: LIS-område 05C och 05E. Föreslagna LIS-områden inom röd prickad linje. Mörkblå linje visar strandskyddsområde.
+
+
+
+                  LIS Landsbygdsutveckling i strandnära lägen                                          Sid 19 (34)
+LIS 06 Sjödal                                              inte omfattar den fria passagen på 30 meter från
+                                                           strandområdet. För att stranden inte ska riskera att
+                                                           privatiseras bör ytterligare krav ställas i detaljplan
+ÖVERSIKTLIG BESKRIVNING                                    eller som villkor i förhandsbesked på att vägar eller
+                                                           gång- och cykelvägar anordnas mellan bebyggelsen
+                             Sjödal är beläget i Ubb-      och strandområdet, eller att staket måste byggas i
+                             hult vid Stora Öresjöns       tomtgräns mot strandområdet. Vid den gamla sim-
+                             norra del utefter Jägmäs-     skolan i norra delen av Stora Öresjön utgör en min-
+                             tarvägen (som går mel-        dre del av vattnet LIS-område, för att möjliggöra en
+                             lan Ubbhult och Sätila),      allmän brygga för bad.
+                             cirka två kilometer sö-
+                             der om väg 614 (som går       MOTIVERING
+                             mellan Hällingsjö och
+                                                           Området är ett omvandlingsområde för kommunalt
+                             Kungsbacka). Utmed väg
+                                                           vatten och avlopp som idag är bebyggd med åretrunt-
+                             614 löper moränåsen
+                                                           och fritidshus. Området är i sig inte en länkad ort,
+Ubbhultsdrumlinen som sträcker sig i nordost-syd-
+                                                           men bedöms ingå i den länkade orten Ubbhult, se av-
+västlig riktning. Tillsammans med de stora samman-
+                                                           snitt Stråk och länkar, sidan 8. Genom att möjliggöra
+hängande skogsområdena ger åsen omgivningarna
+                                                           ny bebyggelse kan underlaget för skola, barnomsorg
+dess speciella karaktär. Mitt på åsen, fem kilometer
+                                                           och kollektivtrafik i Ubbhult stärkas.
+sydväst om Hällingsjö finns Kråkered med skola, barn-
+omsorg, samlingslokal och verksamheter.                    Biltrafiken kan förväntas öka, då bussturtätheten är
+                                                           låg vid väg 1614. Pendelparkeringen vid Källarback-
+Utmed väg 614 finns en bussförbindelse med 8-9 tu-
+                                                           en (sju kilometer från området), där turtätheten är
+rer per dag i vardera riktningen mellan Kungsbacka
+                                                           hög, bör ses över för att underlätta för användande
+och Hällingsjö. Från Hällingsjö kan man ta sig vidare
+                                                           av kollektivtrafik.
+med buss mot Kinna, Göteborg och Sätila. Avståndet
+till närmaste busshållplats är cirka 1,1-2,1 kilometer.
+I Sjödal finns flera mindre bebyggelsegrupper utef-
+ter Sjödalsvägen med såväl åretrunt- som fritidshus. I
+komplettering till översiktsplanen (1997), utgör Sjö-
+dal sammanhållen bostadsbebyggelse. Området be-
+rörs inte av riksintresset Ubbhultsdrumlinen.
+Stora Öresjön har måttlig ekologisk status, för Brea-
+retjärn saknas klassning. Vid exploatering ska sär-
+skild hänsyn tas så att Stora Öresjöns status inte på-
+verkas negativt av förslaget.
+
+
+LIS-områden för blandad
+bebyggelse
+06B SJÖDAL                                                     LIS 06B
+Området ligger vid norra delen av Stora Öresjön och            SJÖDAL
+sträcker sig i norr bort mot Brearetjärn. Artrikt fågel-
+liv i näringsfattig sjö. Storlom och havstrut har histo-
+riskt häckat i sjön. Våtmarker finns i områdets östra
+del. Naturvärden, se Bilaga, bild 31, sidan 32.
+
+REKOMMENDATIONER
+Området kan vara lämpligt för blandad bebyggelse
+i anslutning till befintlig bebyggelse med 30-50 nya
+bostäder. Det bör utformas småskaligt och smälta in
+i omgivande natur och bebyggelse. Området bör an-
+slutas till kommunens VA-nät innan ny sammanhål-                                             Skala 1:10 000
+len bebyggelse kan bli aktuell. Allmänhetens tillgäng-     Figur 19. LIS-område 06B. Föreslaget LIS-område inom röd prick-
+lighet säkerställs genom att huvuddelen av området         ad linje. Mörkblå linje visar strandskyddsområde.
+
+
+
+Sid 20 (34)                LIS Landsbygdsutveckling i strandnära lägen
+LIS 07 Sätila                                                 Relikta sanddyner och ett antal rödlistade arter är
+                                                              knutna till strandmiljön. Strandskyddet är idag upp-
+                                                              hävt i stora delar av område 07A. Område 07D utgörs
+ÖVERSIKTLIG BESKRIVNING                                       av en före detta öppen anstalt inom kriminalvården,
+                                                              som lades ner 2010. Det angränsar till höga natur-
+                             Sätila är en av kommu-           värden där särskilda hänsyn bör tas så att dessa inte
+                             nens större tätorter cir-        påverkas negativt.
+                             ka sju kilometer väster
+                                                              Mindre delar utmed Storån vid område 07D och östra
+                             om Hyssna och väg 156,
+                                                              delarna i område 07A kan inte klassas som tillfredsstäl-
+                             beläget i Storåns dal-
+                                                              lande eller tillräckligt utrett med avseende på geotek-
+                             gång. Landskapet domi-
+                                                              nisk stabilitet. Naturvärden, se Bilaga, bild 32, sidan 32.
+                             neras av jordbruksmar-
+                             ker, den meandrande
+                                                              REKOMMENDATIONER
+                             Storån och sjön Lygnern.
+                             Runt dalgången reser sig         Syftet med LIS 07A är att värna naturen och rekrea-
+                             skogsklädda höjdpartier          tionsmöjligheterna i området. Området föreslås där-
+och formar en vacker landskapsbild. Storån och Lyg-           för för att möjliggöra en utveckling av den pågående
+nern har historiskt fungerat som betydelsefulla kom-          verksamheten för kultur-, friluftsliv, idrott och cam-
+munikationsleder.                                             ping. Nya byggnader, såsom stugor för uthyrning och
+                                                              liknande ska därför inte tillåtas i området. Däremot
+I Sätila är servicenivån hög med livsmedelsbutik,
+                                                              kan mindre servicebyggnader och tillfälliga uppställ-
+skola, bibliotek, restaurang. Genom sitt relativt kor-
+                                                              ningsplatser för husvagnar, husbilar och tält vara
+ta avstånd till Göteborg, Kungsbacka och Landvetter
+                                                              lämpliga.
+flygplats har Sätila ett atraktivt läge i regionen och
+bebyggelsetrycket bedöms vara förhållandevis högt.            Allmänhetens tillgänglighet till stranden är redan
+Till och från Sätila kan man ta sig med en turtät buss-       idag hög. För att säkerställa framtida tillgänglighet
+förbindelse mot Kinna, Göteborg, och Hyssna. Det              ska en fri passage på minst 50 meter hållas. Inom
+finns även en glest trafikerad buss mot Kungsbacka.           detta område ska ingen camping, byggnader eller an-
+                                                              dra anläggningar med privatiserande karaktär tillå-
+Vid Lygnerns norra del finns en stor, välbesökt bad-
+                                                              tas.
+plats, nöjesanläggningen Lygnevi, idrottsplats och
+camping. Såväl Lygnern som Storån är av riksintresse          LIS 07D föreslås för vandrarhemsverksamhet, fram-
+för naturvård och friluftsliv.                                för allt i befintliga lokaler, och camping. Allmänhe-
+                                                              tens tillgänglighet säkerställs genom att området inte
+En fördjupad översiktsplan ha gjorts för Sätila an-
+                                                              omfattar den fria passagen på 30 meter från strand-
+tagen 2003. Lygnern har ett utökat strandskydd till
+                                                              området. Befintliga byggnader inom 30 meter från
+300 meter. Generellt har Lygnern mycket höga natur-
+                                                              stranden bör dock kunna nyttjas för den föreslagna
+och friluftslivsvärden, som också utgör riksintressen.
+                                                              verksamheten.
+Särskilt värdefullt vatten för fiske och natur. Rikt få-
+gelliv knutet till sjön. Lövskogmiljöer kring sjön har        En detaljerad naturvärdesinventering och geotek-
+mycket höga naturvärden. Sjön har god ekologisk och           nisk utredning ska göras i samband med detaljplane-
+kemisk status och utgör reservvattentäkt för bland            ring av områdena.
+annat Kungsbacka kommun.
+                                                              MOTIVERING
+Lygnern har god ekologisk status, medan Storån har
+måttlig ekologisk status. Vid exploatering av område          Området är en viktig verksamhet för ortens invåna-
+7D ska särskild hänsyn tas till marktekniska förhållan-       re och för besökare. Det har föreslagits för att säker-
+den. Åtgärder avseende markytans genomsläpplighet,            ställa framtida behov att utvidga och ändra verksam-
+dagvattenhantering, avloppshantering mm ska väljas            heten. Området ligger vid tätorten Sätila som också
+så att den ekologiska statusen inte försämras.                utgör länkad ort till stråket väg 156.
+                                                              Allmänhetens tillgänglighet och den fria passagen sä-
+LIS-områden för verksamheter                                  kerställs genom att vägar eller gång- och cykelvägar
+                                                              anordnas mellan bebyggelsen och strandområdet,
+                                                              eller att ett större sammanhängande område med
+07A LYGNEVI OCH 07D SMÄLTERYD                                 allmän platsmark planeras utefter stranden. En be-
+Områdena ligger vid Lygnerns norra del direkt sö-             stämmelse i detaljplan eller villkor i förhandsbesked
+der om Sätila centrum, till största del inom vatten-          om krav på staket i tomtgräns mot strandområdet
+skyddsområdet för Sätila, vilket är en intressekon-           kan vara nödvändig för att säkerställa den fria passa-
+flikt. Stranden är värdefull för det rörliga friluftslivet.   gen. Naturvärden, se Bilaga bild 32, sidan 32.
+
+
+
+                            LIS Landsbygdsutveckling i strandnära lägen                                 Sid 21 (34)
+  LIS 07D
+  SMÄLTERYD
+                                                                                                   LIS 07A
+                                                                                                   LYGNEVI
+
+
+
+
+                                                                                                      Skala 1:10 000
+Figur 20. LIS-område 07A, 07B och 07D. Föreslagna LIS-områden inom röd prickad linje. Mörkblå linje visar strandskyddsområde.
+Skrafferat område är fri passage 50 meter från strandlinjen.
+
+
+
+
+Sid 22 (34)                    LIS Landsbygdsutveckling i strandnära lägen
+LIS 09 Torestorp                                         Strandområdets tillgänglighet säkerställs genom att
+                                                         området inte omfattar den fria passagen på 30 me-
+                                                         ter från stranden. För att stranden inte ska riskera att
+ÖVERSIKTLIG BESKRIVNING                                  privatiseras bör ytterligare krav ställas i detaljplan
+                                                         eller som villkor i förhandsbesked på att vägar eller
+                            Torestorp är en tätort       gång- och cykelvägar anordnas mellan bebyggelsen
+                            cirka 13 kilometer söder     och sjön, eller att staket måste byggas i tomtgräns
+                            om Örby beläget mel-         mot strandområdet.
+                            lan sjön Tolken i väster
+                            och den mindre Sandsjö       MOTIVERING
+                            i Öster. Genom samhäl-
+                                                         Det LIS-område som föreslagits i Torestorp ligger i an-
+                            let rinner Torestorpsån,
+                                                         slutning till en befintlig tätort, som också är en länkad
+                            som delar upp sig i sju
+                                                         ort enligt översiktsplanens strukturbild, se figur 7.
+                            strömmar och bildar ett
+                            vackert och intressant       Torestorp ligger i ett område i kommunen med viss
+naturområde. Landskapet karaktäriseras av upple-         service och sviktande underlag. Det är svårt att ska-
+velserika naturmiljöer med många utflyktsmål och         pa intresse för att bygga bostäder i området eftersom
+större sammanhängande skogsområden. En gammal            det innebär stora ekonomiska risker. Genom att möj-
+stenbro finns kvar över Torestorpsån.                    liggöra för ny bebyggelse i särskilt attraktiva lägen
+                                                         kan underlaget för skola, barnomsorg och kollektiv-
+Torestorp är tämligen glest bebyggt och har en ut-
+                                                         trafik stärkas i Torestorp, men även för de livsmedels-
+spridd bebyggelse. Bebyggelsetrycket bedöms vara
+                                                         butiker som finns i Öxabäck och Älekulla. Biltrafiken
+mycket lågt. Viss service finns i Torestorp, såsom
+                                                         kan förväntas öka vid en utbyggnad, då bussturtät-
+skola, barnomsorg, restaurang och café. Till och från
+                                                         heten är låg vid väg 1530. Pendelparkeringar i Kinna
+Torestorp kan man ta sig med buss mot Kinna och
+                                                         och Skene, där turtätheten är hög, bör ses över för
+Älekulla. Avstånd till närmaste busshållplats är cirka
+                                                         att underlätta för användande av kollektivtrafik över
+700 meter.
+                                                         längre distanser.
+En FÖP har gjorts för Torestorp (1991). Det finns
+skyddsvärda äldre träd inom området. Torestorpsån
+har mycket höga naturvärden både i form av fiske-
+liv, men också flodpärlmussla, kärlväxter, ormbunkar
+och mycket sällsynta mossor och lavar.
+Sjön Övermån har måttlig ekologisk status. Vid ex-
+ploatering ska särskild hänsyn tas så att sjöns status
+                                                                              LIS 09B
+inte påverkas negativt av förslaget.                                          KULLA
+LIS-områden för blandad
+bebyggelse
+09B KULLA
+Området ligger några hundra meter öster om To-
+restorps samhälle och hundra meter vid sjön Över-
+mån. Det finns inga kända högre naturvärden på
+landsidan av området. Höga naturvärden finns knut-
+na till Torestorpsån. Naturvärden, se Bilaga, bild 33,
+sidan 33.
+
+REKOMMENDATIONER
+Området kan vara lämpligt för blandad bebyggelse
+med 10-15 nya bostäder och bör utformas småska-
+ligt och smälta in i omgivande natur och bebyggelse.                                              Skala 1:10 000
+Ny sammanhållen bebyggelse bör anslutas till kom-        Figur 21. LIS-område 09B. Föreslaget LIS-område inom röd prick-
+munens VA-nät eller till gemensam VA-anläggning.         ad linje. Mörkblå linje visar strandskyddsområde.
+
+
+
+
+                          LIS Landsbygdsutveckling i strandnära lägen                                  Sid 23 (34)
+LIS 10 Öxabäck                                            och bebyggelse. Odlingsmark bör inte tas i anspråk
+                                                          för ny sammanhållen bebyggelse. Ny sammanhållen
+                                                          bebyggelse bör anslutas till kommunens VA-nät eller
+ÖVERSIKTLIG BESKRIVNING                                   gemensam VA-anläggning.
+                                                          Delar av det föreslagna området är idag avskilda
+                              Öxabäck är en tätort
+                                                          från strandområdet med vägar. Ny bebyggelse vid
+                              som ligger cirka nio ki-
+                                                          dessa delområden bedöms inte inkräkta på allmän-
+                              lometer öster om Tores-
+                                                          hetens tillgänglighet till stranden. Allmänhetens till-
+                              torp och 17 kilometer
+                                                          gänglighet för övriga delområden säkerställs genom
+                              sydost om Kinna. Sam-
+                                                          att dessa inte omfattar den fria passagen på 30 me-
+                              hället är vackert beläget
+                                                          ter från strandområdet. För att stranden inte ska
+                              mellan Sävsjö i norr och
+                                                          riskera att privatiseras bör ytterligare krav ställas i
+                              Öxasjön i söder. Land-
+                                                          detaljplan eller som villkor i förhandsbesked på att
+                              skapet kring Öxabäck är
+                                                          vägar eller gång- och cykelvägar anordnas mellan
+                              småskaligt, med en väx-
+                                                          bebyggelsen och sjön, eller att staket måste byggas i
+                              ling mellan öppen jord-
+                                                          tomtgräns mot strandområdet.
+bruksmark och skogspartier. I sluttningarna mot sjön
+Sävsjö finns inslag av ädellövskog. Högsta punkten är
+Brattåsen, 240 meter över havet.                          10C ÖSTRA SÄVSJÖ, 10D NORRA SÄVSJÖ
+Öxabäck är glest bebyggt och har en utspridd bebyg-       Områdena ligger direkt norr om Öxabäcks samhäl-
+gelse. Bebyggelsetrycket bedöms vara mycket lågt.         le vid Sävsjöns östra och norra sida. En viktig vand-
+Bostadsbeståndet består i huvudsak av frilliggande        ringsled för insjööring, flodpärlmussla m fl arter är
+villor, men även ett fåtal lägenheter i flerfamiljshus.   knutna till sjön och ån. Inga kända högre naturvär-
+Här finns viss service, såsom skola, barnomsorg, livs-    den på land. Naturvärden, se Bilaga, bild 34, sidan 33.
+medelsbutik, idrottshall med mera. Till och från Öx-
+abäck kan man ta sig med buss mot Kinna och Över-         REKOMMENDATIONER
+lida. Avstånd från område 10B till närmaste hållplats
+är cirka 300, för område 10E cirka 700 meter, för om-     Områdena är lämpliga för blandad bebyggelse med
+råde 10C cirka 900 meter och för område 10D cirka         ett tiotal nya bostäder i 10C, ca 10-20 i 10D och bör
+1 100 meter.                                              utformas småskaligt och smälta in i omgivande natur
+                                                          och bebyggelse. Ny bebyggelse bör anslutas till kom-
+En FÖP har gjorts för Öxabäck, antagen 1991. Inga         munens VA-nät eller gemensam VA-anläggning.
+riksintressen berörs. Klassning av ekologisk status
+saknas för såväl Sävsjö som Öxasjön. Torestorpsån,        Strandområdets tillgänglighet säkerställs på samma
+som passerar Sävsjö har måttlig ekologisk status. Vid     sätt som för område 10B och 10E enligt ovan.
+exploatering ska särskild hänsyn tas så att sjöns sta-
+tus inte påverkas negativt av förslaget.                  MOTIVERING
+                                                          De LIS-områden som föreslagits i Öxabäck ligger i an-
+LIS-områden för blandad                                   slutning till en befintlig tätort, som också är en länkad
+                                                          ort enligt översiktsplanens strukturbild, se figur 7.
+bebyggelse                                                Öxabäck ligger i ett område i kommunen med viss
+                                                          service och sviktande underlag. Det är svårt att ska-
+10B VÄSTRA ÖXASJÖN, 10E ÖSTRA                             pa intresse för att bygga bostäder i området eftersom
+ÖXASJÖN                                                   det innebär stora ekonomiska risker. Genom att möj-
+                                                          liggöra för ny bebyggelse på särskilt attraktiva latser
+Områdena ligger direkt söder om Öxabäcks samhälle         kan underlaget för livsmedelsbutik, barnomsorg och
+vid Öxasjöns norra sida. Öxabäcks kyrkby är utpekat       kollektivtrafik stärkas i Öxabäck, men även för skolan
+av länsstyrelsen som värdefullt odlingslandskap, Det      som finns i Torestorp.
+finns värdefulla våtmarker i områdets centrala del.
+Storlom m fl arter häckar i sjön. Naturvärden, se Bila-   Bussturtätheten från Öxabäck och servicenivån är re-
+ga, bild 34, sidan 33.                                    lativt låg varför det är rimligt att anta att en utbygg-
+                                                          nad kommer att generera en ökad biltrafik. Det be-
+REKOMMENDATIONER                                          döms vara en rimlig ökning om man väger det mot
+                                                          behovet av att stärka servicen i området. En utbygg-
+Områdena kan vara lämpliga för blandad bebyggelse,        nad kan även ge möjligheter att bibehålla och kanske
+med 10-15 nya bostäder i vardera område och bör           även öka antal turer.
+utformas småskaligt och smälta in i omgivande natur
+
+
+
+
+Sid 24 (34)               LIS Landsbygdsutveckling i strandnära lägen
+                                                                                                          LIS 10D
+                                                                                                          N SÄVSJÖ
+
+
+
+
+                                                        LIS 10C
+                                                        Ö SÄVSJÖ
+
+
+
+
+                                                                                                      LIS 10E
+                                                                                                      Ö ÖXASJÖN
+
+
+
+
+                                   LIS 10B
+                                   V ÖXASJÖN
+
+
+
+                                                                                                     Skala 1:10 000
+Figur 22. LIS-område 10B, 10C, 10D och 10E. Föreslagna LIS-områden inom röd prickad linje. Mörkblå linje visar strandskyddsområde.
+
+
+
+
+                               LIS Landsbygdsutveckling i strandnära lägen                                       Sid 25 (34)
+LIS 12 Hajom                                             LIS-områden för verksamheter
+
+ÖVERSIKTLIG BESKRIVNING                                  12A HAJOM
+                                                         Området ligger cirka en kilometer väster om Hajom
+                          Hajom är en småort som
+                                                         utmed ån Surtan. Här finns idag en etablerad häst-
+                          ligger cirka sju kilome-
+                                                         verksamhet. Inom området går åkermarken näs-
+                          ter från Skene och Hyss-
+                                                         tan ända ner till Surtan. De högre naturvärden som
+                          na, samt knappt två ki-
+                                                         finns i är knutet antingen direkt till Surtan och dess
+                          lometer söder om väg
+                                                         strandbrink, eller till de två raviner som korsar om-
+                          156. I Hajom finns för-
+                                                         rådet på två ställen (strax söder om Storegården och
+                          skola och en koopera-
+                                                         i områdets norra del). Betesravinen vid Storegården
+                          tiv livsmedelsbutik. Sur-
+                                                         har mycket höga naturvärden som en gammal slåt-
+                          tans dalgång ger trakten
+                                                         terravin. I ravinen finns arter som ängsvädd, darr-
+                          dess karaktär med jord-
+                                                         gräs, brudbröd, jungfrulin och svinrot. Naturvärden,
+bruksmarker, skogsklädda höjder och en vacker och
+                                                         se Bilaga, bild 35, sidan 34.
+storslagen landskapsbild.
+Surtan har mycket höga värden direkt knutna till vat-    REKOMMENDATIONER
+tendraget, dess biflöden och området närmast vatt-
+                                                         Området är lämpligt för utveckling av häst-, fritids-,
+net. Surtan är utpekat av länsstyrelsen som ett vat-
+                                                         turistverksamheter. En exploatering alltför nära
+tendrag med särskilt höga natur- och fiskevärden.
+                                                         strandbrinken och de två ravinerna i området bör
+Havsvandrande lax och öring lever där och den säll-
+                                                         undvikas.
+synta flodpärlmusslan finns också i området. Surtan
+och dess dalgång ingår också i riksintresseområdet       Den allmänna tillgängligheten till Surtan säkerställs
+för Viskan och Surtans dalgång.                          genom att dessa inte omfattar den fria passagen på
+                                                         30 meter från strandområdet. För viss typ av etable-
+Surtan har måttlig ekologisk status. Vid exploatering
+                                                         ring (exempelvis byggnader, hagar) kan det vara nöd-
+ska särskild hänsyn tas så att Surtans status inte på-
+                                                         vändigt att säkerställa tillgängligheten med en be-
+verkas negativt av förslaget.
+                                                         stämmelse i detaljplan eller villkor i förhandsbesked
+Hela området har pekats ut av Länsstyrelsen som          om krav på staket i gräns mot strandområdet.
+ett landskap med höga naturvärden på grund av det
+öppna och hävdade landskapet. I inventeringen be-        MOTIVERING
+skrivs området som pastoralt utseende med stenbro-
+                                                         Området ligger i anslutning till en befintlig småort,
+ar och böljande betade ravinsidor.
+                                                         men också nära det huvudstråk som illustrerats i
+                                                         strukturbilden, se figur 7. Området föreslås för att möj-
+                                                         liggöra utvidgning av den befintliga verksamheten. En
+                                                         ytterligare utveckling med häst-, turist- och/eller fri-
+                                                         tidsverksamheter kan generera nya arbetstillfällen i
+                                                         Hajom och indirekt skapa ökat underlag för den koo-
+                                                         perativa livsmedelsbutiken på orten.
+
+
+
+
+Sid 26 (34)               LIS Landsbygdsutveckling i strandnära lägen
+                                  LIS 12A
+                                  HAJOM
+
+
+
+
+                                                                                                       Skala 1:10 000
+Figur 23. LIS-område 12A. Föreslaget LIS-område inom röd prickad linje. Mörkblå linje visar strandskyddsområde.
+
+
+
+
+                               LIS Landsbygdsutveckling i strandnära lägen                                        Sid 27 (34)
+REFERENSER
+Många av referenserna nedan går att hitta som pdf-dokument på Internet. Datum inom parentes avser datum
+för hämtning av information.
+
+Marks kommun, 1991a. Torestorps samhälle. Fördjup-
+ning av översiktsplan för Marks kommun. Kommun-        Marks kommun, 2011a. Vardagslivskartläggning –
+fullmäktige 1991-06-25.                                en kunskapande process med medborgarsamverkan.
+                                                       Underlagsrapport 2011:1 till översiktsplanen för
+Marks kommun, 1991b. Öxabäcks samhälle. Fördjup-       Marks kommun.
+ning av översiktsplan för Marks kommun. Kommun-
+fullmäktige 1991-06-25.                                Marks kommun, 2011b. Inriktning i det fortsatta över-
+                                                       siktsplanearbetet. Kommunfullmäktige 2011-09-22.
+Marks kommun, 1997. Hyssna. Fördjupad del av över-
+siktsplan 90 för Mark. Kommunfullmäktige 1996-12-17.   Marks kommun, 2014. Översiktsplan för Marks kommun.
+                                                       Del 1-3. Antagandehandling 2017-04-20.
+Marks kommun, 1998. Mark NV. Komplettering av
+översiktsplan 90 för Marks kommun. Kommunfullmäk-      Naturvårdsverket och Boverket, 2009. Strandskydd
+tige 1997-12-16.                                       – en vägledning för planering och prövning. Handbok
+                                                       2009:4.
+Marks kommun, 2003. Sätila. Fördjupning av över-
+siktsplan för Marks kommun. Kommunfullmäktige          SCB, 2010. Tätorter; arealer, befolkning. www.scb.se/
+2003-10-21.                                            MI0810/#c_li_335300 (2015-08-04).
+
+Marks kommun, 2009. Vision och mål för Marks kom-      VISS - Vatteninformationssystem Sverige, 2015. Sta-
+mun. Kommunfullmäktige 2009-11-24.                     tusklassningar – preliminära 2015. www.viss.lanssty-
+                                                       relsen.se (2015-05-31).
+Marks kommun, 2010. FÖP Kinna Skene Örby. För-
+djupning av översiktsplan för Marks kommun. Kom-
+munfullmäktige 2010-09-21.
+
+
+
+
+Sid 28 (34)              LIS Landsbygdsutveckling i strandnära lägen
+BILAGOR
+                                                                            ÅKRA                          STAT
+                                                                                                            TO
+ÖRBY
+
+
+
+
+                                                                                Vattenskyddsområde Örby
+                                                                                vattentäk, primär zon.
+  VÄNNÅKRA                                                                      HANATORP
+                                                                                Strandskydd upphävt
+                                                                                vid camping och bryggor
+
+                                                                                       LIS 03A
+                                                                                       Hanatorp
+
+
+
+
+                                              Våtmarksområde viktig
+                                              häcknings- och rastlokal
+                                              för fåglar.
+
+
+      25:Naturvärden
+Bild 24.
+Figur     Naturvärden     LIS-område
+                     LIS-område         03A Hanatorp.
+                                03A Hanatorp
+
+
+
+                                                    Lövskogsinventering.   Värdefullt odlings-
+                       Vandringsleder löper                                landskap.
+                       genom området.
+
+
+
+
+                   LIS 03D
+                   Haby
+
+                                                                LIS 03B
+                                                                Vännåkra
+
+                                                   Sjön Kalven, viktig
+                                                   rastlokal för fåglar.
+
+
+
+
+                                   Udden utpekad i Lövskogsinven-
+                                   teringen som misstänks ha höga
+                                   naturvärden av hotade och sällsynta
+                                   mossor och lavar.
+
+
+
+      26:Naturvärden
+Bild 25.
+Figur     Naturvärden     LIS-område
+                     LIS-område         03Boch
+                                03B Vännåkra Vännåkra
+                                               03D Haby och 03D Haby.
+
+
+
+
+                        LIS Landsbygdsutveckling i strandnära lägen                               Sid 29 (34)
+                                        Kroksåns utlopp med
+                                        omgivande lövskogs-
+                                        miljöer utpekade i
+                                        lövskogsinventeringen,
+                                        klass 3.
+
+
+
+
+                              Vandringsleden Älgstigen.
+
+
+                                                                               LIS 03C Krok
+
+
+
+
+     Området misstänks ha      Lövskogsinven-
+     höga naturvärden med      tering, klass 3.
+     hotade och sällsynta
+     lavar.
+
+
+
+
+                                        LIS 03E Solvik
+
+
+
+ Bild      Naturvärden
+       27:Naturvärden
+ Figur 26.                       03C Krok 03C
+                           LIS-område
+                      LIS-område               Krok
+                                          och 03E     och 03E Solvik.
+                                                  Solvik.
+
+
+                                         KLATEBERG
+
+
+      MELLTORP
+
+                                                                                               ÄNGAMOT
+
+
+
+                                LIS 05A
+                                Melltorp
+                                                                         Riksintresse naturvård.
+
+
+
+
+ SNA
+
+
+                                                      Riksintresse för
+                                                      kulturmiljövård.
+
+
+
+
+       28:Naturvärden
+ Figur 27.
+ Bild      NaturvärdenLIS-område 05A Melltorp.
+                           LIS-område     05A Melltorp.
+
+
+Sid 30 (34)                 LIS Landsbygdsutveckling i strandnära lägen
+                              Riksintresse för
+                              kulturmiljövård.
+                                                                                                                       BACKA
+
+
+
+                                                                      HYSSNA-                   LOCKÖ
+                                                                       BACKA
+                                                        DALÄNG                                                                 BACKA
+
+
+
+
+                                                            LIS 05B       DALÄNG                           HYSSNA
+                                                 SLÄTTHED
+                                                            Lockö.
+
+                                                            LOCKÖ
+                                                                                                 HYSSNA
+
+
+                                             Vattenskyddsområde                                              SANDVAD
+                                                                                                   SANDVAD
+
+
+
+                                                                                                                Skyddsavstånd
+                                                                                                                reningsverk.
+                                 BONARED
+                                                                                                                SANDVAD
+                                                                                                 SANDVAD
+
+             Figur 29:
+             Bild      Naturvärden
+                   28. Naturvärden      LIS-område
+                                   LIS-område         05B Lockö.
+                                              05B Lockö.
+
+
+
+
+       Värdefull gammal
+       betesmark.
+
+
+
+
+                                            LIS 05C
+                                            Stjärnhult
+
+
+                                                                                      LIS 05D
+                                                                                      Flybacka
+
+
+
+
+                                                                                                                 Lövskogsinventering.
+
+
+
+
+                                                            LIS 05E
+                                                            Balltjärn
+
+
+
+Figur 30:
+Bild      Naturvärden
+      29. Naturvärden      LIS-område
+                      LIS-område          05Coch
+                                 05C Stjärnhult Stjärnhult   och 05E Balltjärn.
+                                                   05E Balltjärn.                  Bild  31:Naturvärden
+                                                                                   Figur 30. Naturvärden     LIS-område
+                                                                                                        LIS-område          5D Flybacka.
+                                                                                                                   05D Flybacka.
+
+
+
+
+                                       LIS Landsbygdsutveckling i strandnära lägen                                         Sid 31 (34)
+                                                                   Våtmark.
+
+
+
+
+                                           LIS 06B
+                                           Sjödal
+
+
+
+
+                                                  Strandskyddet upphävt
+                                                  enligt detaljplan.
+
+
+
+
+   Bild      Naturvärden
+         32:Naturvärden
+   Figur 31.                 LIS-område
+                        LIS-område         06B Sjödal.
+                                   06B Sjödal.
+
+
+
+
+        LIS 07D                     Område med värdefulla
+        Smälteryd                   grova ekar.
+                                                              Vattenskyddsområde.
+
+
+
+
+  Detta område har
+  bedömts ha mycket
+  höga naturvärden
+  på grund av fågel-
+  häckning.                                                                   Strandskyddet upphävt.
+
+
+
+                                                                                         LIS 07A
+  Naturreservat                                                                          Lygnevi
+  Smälteryd
+
+
+
+
+Figur 33:
+Bild      Naturvärden
+      32. Naturvärden      LIS-område
+                      LIS-område         07A
+                                 07A Lygnevi   Lygnevi
+                                             och        och 07D Smälteryd.
+                                                 07D Smälteryd.
+
+
+
+
+Sid 32 (34)                LIS Landsbygdsutveckling i strandnära lägen
+                                                            LIS09B
+                                                            Kulla
+
+                                               Natura 2000-område
+                                               Sju Strömmar
+
+
+
+
+Bild     Naturvärden
+     34:33.
+  Figur                 LIS-område
+            Naturvärden LIS-område 09B09B  Kulla.
+                                       Kulla.
+
+
+                                                                                 LIS 10D
+                                                                                 N Sävsjö
+
+
+
+
+                                                                                         LIS 10C
+                                                                                         Ö Sävsjö
+
+
+
+
+   Vattenskyddsområde,
+   ej fastställt.
+
+
+
+
+                                                                                  Värdefulla
+                                                                                  våtmarker.
+
+
+                                                                                          LIS 10E
+                                                                                          Ö Öxasjön
+
+
+                                         LIS 10B
+                                         V Öxasjön
+
+
+
+
+Figur 34. Naturvärden LIS-område 10B V Öxasjön, 10C Ö Sävsjö, 10D N Sävsjö och 10E Ö Öxasjön.
+Bild 35: Naturvärden LIS-område 10B V Öxasjön, 10C Ö Sävsjö, 10D N Sävsjö och 10E Ö Öxasjön.
+
+
+                    LIS Landsbygdsutveckling i strandnära lägen                                 Sid 33 (34)
+                                       s
+                                                                                 HAJOM
+
+                               HAJOM
+
+
+                                                                MOSSABERG
+                                   LIS12A
+                                   Hajom
+
+
+           NÖDINGE
+                                                                     MOSSABERG
+                                                   HAJOM
+
+
+              Ravin med höga
+              naturvärden.                                 Riksintresse
+                                                           naturvård.
+
+
+
+
+        Gammal slåtter-
+        ravinmed höga
+                                                                HAJOMS-HEDE
+        naturvärden.
+
+
+
+
+                                                 STAKAGÅRDEN
+
+
+
+
+      NÖDINGE                                                        HAJOMS-
+                                                                     HEDE
+
+
+
+           36:Naturvärden
+     Bild 35.
+     Figur     Naturvärden     LIS-område
+                          LIS-område          12A Hajom.
+                                     12A Hajom.
+
+
+
+
+Sid 34 (34)               LIS Landsbygdsutveckling i strandnära lägen
+
