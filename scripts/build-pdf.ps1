@@ -14,7 +14,10 @@
 #     https://github.com/Wandmalfarbe/pandoc-latex-template/releases)
 
 param(
-    [string]$Source = ""
+    [string]$Source = "",
+    [string]$Title = "",
+    [string]$Subtitle = "",
+    [string]$Author = ""
 )
 
 $ErrorActionPreference = "Stop"
@@ -144,15 +147,20 @@ if ($Source) {
     }
     $base = [System.IO.Path]::GetFileNameWithoutExtension($mdPath)
     if (-not $metadata[$base]) {
-        # Lokala/okända filer: generisk metadata med bindestreck i stället
-        # för understreck (underscore i text-mode bryter LaTeX).
-        $prettyTitle = ($base -replace '_', ' ')
+        # Lokala/okända filer: använd CLI-flaggor om angivna, annars generisk
+        # metadata med bindestreck (understreck i LaTeX text-mode ger fel).
+        $fallbackTitle = if ($Title) { $Title } else { ($base -replace '_', ' ') }
         $metadata[$base] = @{
-            title    = $prettyTitle
-            subtitle = ""
-            author   = ""
+            title    = $fallbackTitle
+            subtitle = $Subtitle
+            author   = $Author
             toc      = $false
         }
+    } else {
+        # CLI-flaggor kan ändå överskrida befintlig metadata.
+        if ($Title)    { $metadata[$base].title    = $Title }
+        if ($Subtitle) { $metadata[$base].subtitle = $Subtitle }
+        if ($Author)   { $metadata[$base].author   = $Author }
     }
     Build-Pdf -MdPath $mdPath | Out-Null
 } else {
