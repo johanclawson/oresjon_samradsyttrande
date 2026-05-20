@@ -20,11 +20,11 @@ Materialet är fritt att använda som mall för egna samrådsyttranden eller öv
 |---|---|---|
 | **[Förslag – kollektivt yttrande](yttranden/yttrande_kollektivt.md)** *(utkast)* | Förslag till kollektivt yttrande strukturerat i fyra tematiska kluster (miljörättsligt, hälsa/risker, karaktär, fastighetsrätt/formellt) med kort översikt över huvudgrunderna. Innehåller konkreta lagrum, MÖD-praxis och hänvisningar till LIS-tillägget. | [html](yttranden/yttrande_kollektivt.html) · [md](yttranden/yttrande_kollektivt.md) · [docx](yttranden/yttrande_kollektivt.docx) · [pdf](yttranden/yttrande_kollektivt.pdf) |
 | **[Förslag – fokus på väghållarperspektiv](yttranden/yttrande_vaghallarperspektiv.md)** *(utkast)* | Förslag till yttrande från väghållarperspektivet (förvaltande samfällighetsförening för Lygnersvider ga:1 — anläggningslagen, andelstal, trafik). *Kräver berörd förenings styrelsebehandling innan inlämning.* | [html](yttranden/yttrande_vaghallarperspektiv.html) · [md](yttranden/yttrande_vaghallarperspektiv.md) · [docx](yttranden/yttrande_vaghallarperspektiv.docx) · [pdf](yttranden/yttrande_vaghallarperspektiv.pdf) |
-| **[Mall för enskilda sakägare](yttranden/anslutningsmail_mall.md)** *(utkast)* | Kort anslutningsmail som varje sakägare kan kopiera och skicka från sin egen e-post för att bevara enskild talerätt enligt 13 kap. 11 § PBL. | [html](yttranden/anslutningsmail_mall.html) · [md](yttranden/anslutningsmail_mall.md) · [docx](yttranden/anslutningsmail_mall.docx) · [pdf](yttranden/anslutningsmail_mall.pdf) |
+| **[Mall för enskilt yttrande](yttranden/anslutningsmail_mall.md)** *(utkast)* | Mall som varje sakägare kan kopiera, fylla i med egna synpunkter och skicka från sin egen e-post för att bevara enskild talerätt enligt 13 kap. 11 § PBL. | [html](yttranden/anslutningsmail_mall.html) · [md](yttranden/anslutningsmail_mall.md) · [docx](yttranden/anslutningsmail_mall.docx) · [pdf](yttranden/anslutningsmail_mall.pdf) |
 
 ### Viktigt om talerätt
 
-För att en enskild sakägare ska behålla rätten att överklaga ett kommande antagandebeslut enligt [13 kap. 11 § PBL](https://lagen.nu/2010:900#K13P11) måste var och en **själv** skicka in ett yttrande. Att stå som undertecknare på det kollektiva yttrandet räcker inte. Mallen ovan (`anslutningsmail_mall`) är gjord för just det.
+För att en enskild sakägare ska behålla rätten att överklaga ett kommande antagandebeslut enligt [13 kap. 11 § PBL](https://lagen.nu/2010:900#K13P11) måste var och en **själv** skicka in ett yttrande. Mallen ovan (`anslutningsmail_mall`) ger en grundstruktur som du fyller i med dina egna synpunkter.
 
 ---
 

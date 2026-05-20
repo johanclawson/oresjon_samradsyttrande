@@ -63,8 +63,8 @@ $metadata = @{
         toc      = $true
     }
     "anslutningsmail_mall" = @{
-        title    = "Anslutningsmail till kollektivt yttrande"
-        subtitle = "Detaljplan PLAN.2024.747 – mall för enskilda sakägare"
+        title    = "Mall för enskilt yttrande"
+        subtitle = "Detaljplan PLAN.2024.747 – för enskilda sakägare"
         author   = ""
         toc      = $false
     }
