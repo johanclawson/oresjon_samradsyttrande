@@ -144,17 +144,20 @@ if ($Source) {
     }
     $base = [System.IO.Path]::GetFileNameWithoutExtension($mdPath)
     if (-not $metadata[$base]) {
-        # Lägg till generisk metadata för lokala filer.
+        # Lokala/okända filer: generisk metadata med bindestreck i stället
+        # för understreck (underscore i text-mode bryter LaTeX).
+        $prettyTitle = ($base -replace '_', ' ')
         $metadata[$base] = @{
-            title    = $base
+            title    = $prettyTitle
             subtitle = ""
             author   = ""
-            toc      = $true
+            toc      = $false
         }
     }
     Build-Pdf -MdPath $mdPath | Out-Null
 } else {
-    # Bygger endast yttranden som finns i metadata-listan (publika).
+    # Bygger endast yttranden som finns i metadata (publika). Lokala filer
+    # byggs via -Source.
     foreach ($base in $metadata.Keys) {
         $mdPath = Join-Path $projectDir "yttranden\$base.md"
         if (Test-Path $mdPath) {
