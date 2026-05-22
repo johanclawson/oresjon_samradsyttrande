@@ -5,7 +5,7 @@
 **Ärende:** Yttrande över samråd – Detaljplan för bostäder, Ubbhult 2:2 och Håkankila 1:8, Sätila  
 **Diarienummer:** PLAN.2024.747  
 **Datum:** 2026-05-25  
-**Avsändare:** \[Undertecknande fastighetsägare enligt bilagd förteckning\]
+**Avsändare:** \[Undertecknande fastighetsägare/sakägare\]
 
 ------------------------------------------------------------------------
 
@@ -270,6 +270,5 @@ Med vänlig hälsning,
 \[Kontaktuppgifter på begäran\]
 
 **Bilagor:**  
-Bilaga 1 – Förteckning över undertecknande fastighetsägare med fastighetsbeteckningar (samtliga räknas som enskilda sakägare enligt [5 kap. 11 § PBL](https://lagen.nu/2010:900#K5P11)).  
-Bilaga 2 – Skärmdump av kommunens projektsida 2026-05-18 (visande rubriken "HÅKANKILA 1:19", kan tillhandahållas vid begäran).  
-Bilaga 3 – [Länsstyrelsens granskningsyttrande över FÖP Mark Nordväst](https://github.com/johanclawson/oresjon_samradsyttrande/blob/master/op/Granskningsyttrande_FOP_Mark_Nordvast.pdf), 2023-01-31, dnr 401-50227-2022 (åberopas i flera avsnitt ovan).
+Bilaga 1 – Skärmdump av kommunens projektsida 2026-05-18 (visande rubriken "HÅKANKILA 1:19", kan tillhandahållas vid begäran).  
+Bilaga 2 – [Länsstyrelsens granskningsyttrande över FÖP Mark Nordväst](https://github.com/johanclawson/oresjon_samradsyttrande/blob/master/op/Granskningsyttrande_FOP_Mark_Nordvast.pdf), 2023-01-31, dnr 401-50227-2022 (åberopas i flera avsnitt ovan).

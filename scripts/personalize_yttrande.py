@@ -143,20 +143,6 @@ def replace_signature(html: str, name: str, fastighet: str, adress: str, tel: st
     return html.replace(old, new)
 
 
-def remove_bilaga_undertecknande(html: str) -> str:
-    """Ta bort bilaga 1 om förteckning över undertecknande (gäller inte personlig version)."""
-    old = (
-        'Bilaga 1 – Förteckning över undertecknande fastighetsägare med fastighetsbeteckningar '
-        '(samtliga räknas som enskilda sakägare enligt 5 kap. 11 § PBL).<br>\n'
-        'Bilaga 2 – '
-    )
-    new = "Bilaga 1 – "
-    html = html.replace(old, new)
-    # Förskjut numreringen för resterande bilagor
-    html = html.replace("Bilaga 3 – Länsstyrelsens", "Bilaga 2 – Länsstyrelsens")
-    return html
-
-
 def personalize(
     mall_path: Path,
     output_path: Path,
@@ -179,7 +165,6 @@ def personalize(
     html = replace_inledning(html)
     html = substitute_we_to_i(html)
     html = replace_signature(html, name, fastighet, adress, tel, email)
-    html = remove_bilaga_undertecknande(html)
 
     output_path.write_text(html, encoding="utf-8")
     print(f"Skrev: {output_path} ({len(html)} tecken)")
