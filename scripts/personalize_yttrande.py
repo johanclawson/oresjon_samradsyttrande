@@ -129,13 +129,28 @@ def replace_inledning(html: str) -> str:
         "sakägarintresse. Denna skrivelse fokuserar på de bredare frågorna: "
         "strandskyddsupphävande, artskydd, MKB-undersökning, miljökvalitetsnormer för vatten, "
         "dagvatten- och skyfallshantering, ras- och skredrisk, anpassning till områdets "
-        "karaktär, badplatsens funktion samt formella brister i samrådsförfarandet. Övriga "
-        "sakägare i området kan komma att ansluta sig till detta yttrande genom egna skrivelser. "
-        "Underlag, rättskällor och referensplaner som åberopas finns dokumenterade på "
-        '<a href="https://github.com/johanclawson/oresjon_samradsyttrande">'
-        'github.com/johanclawson/oresjon_samradsyttrande</a>.</p>'
+        "karaktär, badplatsens funktion samt formella brister i samrådsförfarandet.</p>"
     )
     return html.replace(old, new)
+
+
+def insert_notice_box(html: str) -> str:
+    """Lägg till framträdande notice-box om anslutning och dokumentation, före Inledning."""
+    notice_box = (
+        '\n<p style="background: #e8f4f8; border-left: 4px solid #1a4a7a; '
+        'padding: 12px; margin: 16px 0; font-size: 11pt;">\n'
+        "<strong>Anslutning:</strong> Övriga sakägare i området kan ansluta sig till detta "
+        "yttrande genom egna skrivelser till <a href=\"mailto:planochbyggenheten@mark.se\">"
+        "planochbyggenheten@mark.se</a> under diarienummer PLAN.2024.747.<br><br>\n"
+        "<strong>Dokumentation:</strong> Underlag, rättskällor och referensplaner som åberopas "
+        "finns dokumenterade på "
+        '<a href="https://github.com/johanclawson/oresjon_samradsyttrande">'
+        "github.com/johanclawson/oresjon_samradsyttrande</a>.\n"
+        "</p>\n"
+    )
+    # Lägg till direkt före "Inledning"-rubriken
+    marker = '<h2 style="color: #1a4a7a; border-bottom: 1px solid #ccc; padding-bottom: 4px;">Inledning</h2>'
+    return html.replace(marker, notice_box + marker, 1)
 
 
 def replace_signature(html: str, name: str, fastighet: str, adress: str, tel: str, email: str) -> str:
@@ -175,6 +190,7 @@ def personalize(
     html = remove_first_draft_banner(html)
     html = replace_header(html, datum)
     html = insert_sakagare_block(html, name, fastighet, adress, rights)
+    html = insert_notice_box(html)
     html = replace_inledning(html)
     html = substitute_we_to_i(html)
     html = replace_signature(html, name, fastighet, adress, tel, email)
