@@ -150,13 +150,16 @@ Jägmästarvägen är skyltad 70 km/h, saknar vägren, gång- och cykelväg samt
 Trafikutredningen 2025-02-14 bedömer att ca 30 nya bostäder inte medför betydande påverkan. Bedömningen är otillräckligt underbyggd:
 
 - Uppdaterade trafikmätningar saknas.
-- Beräkningen av ÅDT inkluderar inte etablerings- och byggtrafik under en upp till tioårig genomförandetid eller tillkommande nyttotrafik (post, paket, sophämtning, varuleveranser, hemtjänst).
+- Beräkningen av ÅDT inkluderar inte etablerings- och byggtrafik under en upp till tioårig genomförandetid eller tillkommande nyttotrafik (post, paket, sophämtning, varuleveranser, hemtjänst, vårdpersonal).
+- **Behovet av åtgärder och underhåll utanför planområdet** är inte adresserat. Jägmästarvägen förvaltas av den lokala samfällighetsföreningen (Lygnersvider ga:1) som ensam ansvarar för väghållningen söder om planområdet. Den ökade trafiken kommer slita på sträckor som inte uppgraderas men trafikeras väsentligt mer, utan att finansiella resurser tilldelats för uppgradering.
 - Ingen gång- och cykelväg planeras inom eller anslutande till området, trots [LIS-tilläggets](https://github.com/johanclawson/oresjon_samradsyttrande/blob/master/op/LIS_Landsbygdsutveckling_strandnara_lagen.pdf) uttryckliga rekommendation om att GC-väg ska anordnas mellan bebyggelse och strandområde (LIS sid. 19).
 - Kollektivtrafik saknas, och planen löser inte heller den frågan trots att förbättrad kollektivtrafik åberopas som verkan av LIS-skälet (se även punkt 1).
 - Pendelparkeringen vid Källarbacken är inte behandlad.
 - **Barnperspektivet** – jfr Förenta Nationernas konvention om barnets rättigheter (barnkonventionen), inkorporerad genom lag (2018:1197), särskilt artikel 3.1 – är otillräckligt belyst.
 
 Vi yrkar att trafikutredningen kompletteras med dagsfärska mätningar, prognos vid full utbyggnad inkl. byggtrafik, säkerhetsanalys för oskyddade trafikanter, samt konkreta trafiksäkerhetshöjande åtgärder (sänkt hastighet, GC-bana, belysning) som bindande planbestämmelser.
+
+**Finansieringsansvar:** Det är en grundläggande planprincip att den som genererar en kostnad bör bära den. Den ökade trafiken, eventuella förstärkningsåtgärder och de ökade underhållskostnaderna är direkta följder av exploateringen och bör inte ensidigt belasta befintliga delägare i samfällighetsföreningen för Lygnersvider ga:1 (se vidare punkt 10). Vi yrkar att frågan om **kostnadsansvar för utbyggnad och underhåll av Jägmästarvägen regleras i exploateringsavtal** mellan kommunen och exploatören enligt [5 kap. 13 § PBL](https://lagen.nu/2010:900#K5P13), och att exploateringsavtalet redovisas inför granskningsskedet.
 
 ## C. Karaktär, anpassning och allmänt intresse (punkt 8–9)
 
@@ -193,15 +196,20 @@ Badplatsen, som ursprungligen tillkom genom förrättning 1962 (akt 15-SÄT-914)
 
 ### 10. Konsekvenser för Lygnersvider ga:1 och den förvaltande samfällighetsföreningen
 
-Jägmästarvägen förvaltas av en lokal samfällighetsförening genom gemensamhetsanläggningen Lygnersvider ga:1. Anslutning av ca 30 nya fastigheter ändrar andelstal och kostnadsfördelning för samtliga nuvarande delägare väsentligt. Anslutning prövas av Lantmäteriet enligt anläggningslagen 42 a och 43 §§.
+Jägmästarvägen förvaltas av en lokal samfällighetsförening genom gemensamhetsanläggningen Lygnersvider ga:1. Anslutning av ca 30 nya fastigheter påverkar samtliga nuvarande delägare väsentligt:
 
-De skyddsregler för deltagande fastigheter som följer av 5 och 6 §§ AL kan enligt 6 a § AL undantas om detaljplanen innehåller en bestämmelse om gemensamhetsanläggning och Lantmäteriets beslut fattas under planens genomförandetid. Eftersom dessa skyddsregler då kan falla bort måste konsekvenserna för befintliga delägare i Lygnersvider ga:1 redovisas redan i planhandlingarna.
+- **Andelstal och kostnadsfördelning** ändras – samtliga befintliga delägare påverkas av att nya andelar tillkommer och av hur Lantmäteriet sätter andelstalen för de nya fastigheterna. Anslutning prövas av Lantmäteriet enligt anläggningslagen 42 a och 43 §§.
+- **Slitage och underhållsbörda** ökar – särskilt på den del av Jägmästarvägen söder om planområdet som inte uppgraderas men trafikeras väsentligt mer. Kostnaden för anläggningens kapacitetshöjning, slitage och underhåll under och efter genomförandetiden ligger på sträckor och anläggningar som föreningen och dess delägare förvaltar (se även punkt 7 om finansieringsansvar).
+- **Föreningens administrativa börda** ökar – införlivande av ett betydande antal nya delägare medför arbete med uppdatering av andelstal, debitering, stämmoförvaltning och eventuell omprövning av anläggningsbeslut.
+
+De skyddsregler för deltagande fastigheter som följer av 5 och 6 §§ AL kan enligt 6 a § AL undantas om detaljplanen innehåller en bestämmelse om gemensamhetsanläggning och Lantmäteriets beslut fattas under planens genomförandetid. Det innebär att de normala skyddsreglerna för befintliga delägare riskerar att sättas ur spel av planen själv. Konsekvenserna för befintliga delägare måste därför redovisas och utredas redan i planhandlingarna, inte hänvisas till en senare lantmäteriförrättning där skyddsreglerna inte längre gäller.
 
 Vi begär:
 
 - Att samfällighetsföreningen för Lygnersvider ga:1 kallas som sakägare och bereds tillfälle att yttra sig.
 - Att Marks kommun inhämtar ett uttryckligt yttrande från Lantmäterimyndigheten över planförslaget enligt [5 kap. 11 § PBL](https://lagen.nu/2010:900#K5P11), och beaktar Lantmäteriets särskilda granskningsroll enligt [5 kap. 15 § PBL](https://lagen.nu/2010:900#K5P15). Att Lantmäteriet i januari 2026 kontrollerat fastighetsgränser (s. 35) är inte samråd över planförslaget i lagens mening.
 - Att [planbeskrivningen](https://github.com/johanclawson/oresjon_samradsyttrande/blob/master/planhandlingar/planbeskrivning.pdf) omformuleras så att den korrekt återger att frågan om servitutens fortsatta giltighet och om GA-anslutning prövas av Lantmäteriet, inte i planprocessen.
+- Att **kostnadsansvar för utbyggnad och underhåll av Jägmästarvägen regleras i exploateringsavtal** mellan kommunen och exploatören enligt [5 kap. 13 § PBL](https://lagen.nu/2010:900#K5P13) (se punkt 7), så att ekonomiska konsekvenser av exploateringen inte ensidigt belastar befintliga delägare i föreningen.
 
 ### 11. Bristande [planbeskrivning](https://github.com/johanclawson/oresjon_samradsyttrande/blob/master/planhandlingar/planbeskrivning.pdf) och rättighetsredovisning – [4 kap. 33 § PBL](https://lagen.nu/2010:900#K4P33)
 
