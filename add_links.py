@@ -19,6 +19,11 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 MD_FILES = sorted(ROOT.glob("yttranden/*.md"))
 
+# Publik GitHub-repo. Lokala filreferenser i yttrandena pekas mot detta
+# så att klickbara länkar i PDF:erna fungerar för mottagare som inte har
+# repot lokalt (t.ex. kommunens handläggare).
+REPO_URL = "https://github.com/johanclawson/oresjon_samradsyttrande/blob/master"
+
 # --- MÖD-domar ---
 MOD_CASES: dict[str, str] = {
     "MÖD 2017:49": "https://lagen.nu/dom/mod/2017:49",
@@ -27,12 +32,15 @@ MOD_CASES: dict[str, str] = {
     "MÖD 2022:5": "https://lagen.nu/dom/mod/2022:5",
     "MÖD 2019:2": "https://lagen.nu/dom/mod/2019:2",
     "MÖD P 2498-22": "https://www.strandskyddsdomar.se/detaljplan-inom-lis-omrade-upphavs-da-den-inte-tillgodoser-fri-passage/",
-    # MÖD P 5876-18 har tagits bort från domstol.se. Länkar till lokal kopia.
-    "MÖD P 5876-18": "../domar/MOD_P5876-18.pdf",
+    # MÖD P 5876-18 har tagits bort från domstol.se. Länkar till lokal kopia på GitHub.
+    "MÖD P 5876-18": f"{REPO_URL}/domar/MOD_P5876-18.pdf",
     "MÖD P 9670-20": "https://www.strandskyddsdomar.se/upphavd-detaljplan-pa-grund-av-att-utredning-saknas/",
     # MÖD P 2387-20 har också tagits bort från domstol.se. Vi har bara sammanfattning lokalt.
-    "MÖD P 2387-20": "../domar/MOD_P2387-20_betydande_olagenhet.md",
+    "MÖD P 2387-20": f"{REPO_URL}/domar/MOD_P2387-20_betydande_olagenhet.md",
     "MÖD M 11789-21": "https://www.strandskyddsdomar.se/fri-passage-varnas-i-lis-omrade/",
+    "MÖD 2023:17 II": f"{REPO_URL}/domar/MOD_2023-17_II_Solvesborg_fladdermus.md",
+    "MÖD 2014:12": "https://lagen.nu/dom/mod/2014:12",
+    "MÖD P 14048-22": f"{REPO_URL}/domar/MOD_P14048-22_fladdermus.pdf",
 }
 
 # Målnummer-bara (utan MÖD-prefix), pekar på samma URL.
@@ -47,6 +55,9 @@ ALIASES: dict[str, str] = {
     "P 9670-20": MOD_CASES["MÖD P 9670-20"],
     "P 2387-20": MOD_CASES["MÖD P 2387-20"],
     "M 11789-21": MOD_CASES["MÖD M 11789-21"],
+    "P 15357-21": MOD_CASES["MÖD 2023:17 II"],
+    "P 1364-13": MOD_CASES["MÖD 2014:12"],
+    "P 14048-22": MOD_CASES["MÖD P 14048-22"],
 }
 
 # --- Lagrum ---
@@ -111,24 +122,24 @@ EU_REFS: list[tuple[str, str]] = [
 LOCAL_DOCS: list[tuple[str, str]] = [
     (
         r"Länsstyrelsens\s+granskningsyttrande\s+över\s+(?:Fördjupad\s+översiktsplan\s+\()?FÖP(?:\))?\s+Mark\s+Nordväst",
-        "../op/Granskningsyttrande_FOP_Mark_Nordvast.pdf",
+        f"{REPO_URL}/op/Granskningsyttrande_FOP_Mark_Nordvast.pdf",
     ),
     (
         r"Fördjupad\s+översiktsplan\s+\(FÖP\)\s+Mark\s+Nordväst",
-        "../op/Granskningsyttrande_FOP_Mark_Nordvast.pdf",
+        f"{REPO_URL}/op/Granskningsyttrande_FOP_Mark_Nordvast.pdf",
     ),
     (
         r"granskningsyttrande\s+över\s+FÖP\s+Mark\s+Nordväst",
-        "../op/Granskningsyttrande_FOP_Mark_Nordvast.pdf",
+        f"{REPO_URL}/op/Granskningsyttrande_FOP_Mark_Nordvast.pdf",
     ),
     (
         r"FÖP\s+Mark\s+Nordväst",
-        "../op/Granskningsyttrande_FOP_Mark_Nordvast.pdf",
+        f"{REPO_URL}/op/Granskningsyttrande_FOP_Mark_Nordvast.pdf",
     ),
-    (r"LIS-tillägget(s)?", "../op/LIS_Landsbygdsutveckling_strandnara_lagen.pdf"),
-    (r"planbeskrivning(en|ens)?", "../planhandlingar/planbeskrivning.pdf"),
-    (r"plankartan?(s)?", "../planhandlingar/plankarta.pdf"),
-    (r"illustrationsplan(en)?", "../planhandlingar/illustrationsplan.pdf"),
+    (r"LIS-tillägget(s)?", f"{REPO_URL}/op/LIS_Landsbygdsutveckling_strandnara_lagen.pdf"),
+    (r"planbeskrivning(en|ens)?", f"{REPO_URL}/planhandlingar/planbeskrivning.pdf"),
+    (r"plankartan?(s)?", f"{REPO_URL}/planhandlingar/plankarta.pdf"),
+    (r"illustrationsplan(en)?", f"{REPO_URL}/planhandlingar/illustrationsplan.pdf"),
 ]
 
 
