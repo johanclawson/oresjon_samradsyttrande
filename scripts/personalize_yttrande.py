@@ -86,13 +86,25 @@ def replace_header(html: str, datum: str) -> str:
     return html.replace(old, new)
 
 
-def insert_sakagare_block(html: str, name: str, fastighet: str, adress: str) -> str:
-    """Lägg till sakägar-block efter headern."""
+def insert_sakagare_block(
+    html: str, name: str, fastighet: str, adress: str, rights: str
+) -> str:
+    """Lägg till sakägar-block efter headern.
+
+    Sakägarstatus motiveras via konkreta rättigheter (rights), inte via PBL-§.
+    Om rights är tom används ett generiskt block.
+    """
+    if rights.strip():
+        sakagare_text = (
+            f"Sakägare och rättighetshavare i förhållande till planområdet, {rights}."
+        )
+    else:
+        sakagare_text = "Sakägare och rättighetshavare i förhållande till planområdet."
+
     sakagare_block = (
         '\n<p><strong>Sakägare:</strong><br>\n'
-        f'{name}, ägare till <strong>{fastighet}</strong> ({adress}).<br>\n'
-        'Sakägare och rättighetshavare i förhållande till planområdet enligt '
-        '5 kap. 11 § plan- och bygglagen (2010:900, PBL).</p>\n'
+        f'{name}, ägare till {fastighet} ({adress}).<br>\n'
+        f'{sakagare_text}</p>\n'
     )
     # Lägg till efter <hr>-elementet som följer headern
     return html.replace("<hr>\n", "<hr>\n" + sakagare_block, 1)
@@ -152,6 +164,7 @@ def personalize(
     tel: str,
     email: str,
     datum: str,
+    rights: str,
 ) -> None:
     """Läs mall, applicera substitutioner, skriv personlig version."""
     if not mall_path.exists():
@@ -161,7 +174,7 @@ def personalize(
 
     html = remove_first_draft_banner(html)
     html = replace_header(html, datum)
-    html = insert_sakagare_block(html, name, fastighet, adress)
+    html = insert_sakagare_block(html, name, fastighet, adress, rights)
     html = replace_inledning(html)
     html = substitute_we_to_i(html)
     html = replace_signature(html, name, fastighet, adress, tel, email)
@@ -178,6 +191,20 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--tel", default="070-264 09 04")
     parser.add_argument("--email", default="johan.claeson@gmail.com")
     parser.add_argument("--datum", default="2026-05-22")
+    parser.add_argument(
+        "--rights",
+        default=(
+            "bl.a. som förmånstagare av officialservitut 1463-1017.G "
+            "(väg över Ubbhult 2:2), belastad part under officialservitut "
+            "15-SÄT-914.B (bad- och båtplats för Ubbhult 2:9), samt delägare "
+            "med 1,4 andelar i gemensamhetsanläggningen Lygnersvider ga:1"
+        ),
+        help=(
+            "Konkreta rättigheter som motiverar sakägarstatus (utan punkt på "
+            "slutet). Default är Johan Claesons rättigheter; andra sakägare "
+            "kan anpassa eller sätta tom sträng för generiskt block."
+        ),
+    )
     parser.add_argument(
         "--output",
         default="yttranden/yttrande_kollektivt_johan.html",
@@ -203,6 +230,7 @@ def main(argv: list[str] | None = None) -> int:
         tel=args.tel,
         email=args.email,
         datum=args.datum,
+        rights=args.rights,
     )
     return 0
 
