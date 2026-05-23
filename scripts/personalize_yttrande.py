@@ -181,7 +181,7 @@ def personalize(
     datum: str,
     rights: str,
 ) -> None:
-    """Läs mall, applicera substitutioner, skriv personlig version."""
+    """Läs kollektiv-mall, applicera substitutioner, skriv personlig version."""
     if not mall_path.exists():
         raise FileNotFoundError(f"Mall saknas: {mall_path}")
 
@@ -194,6 +194,52 @@ def personalize(
     html = replace_inledning(html)
     html = substitute_we_to_i(html)
     html = replace_signature(html, name, fastighet, adress, tel, email)
+
+    output_path.write_text(html, encoding="utf-8")
+    print(f"Skrev: {output_path} ({len(html)} tecken)")
+
+
+def personalize_komplettering(
+    mall_path: Path,
+    output_path: Path,
+    name: str,
+    fastighet: str,
+    adress: str,
+    tel: str,
+    email: str,
+) -> None:
+    """Läs komplettering-mall, applicera substitutioner, skriv personlig version.
+
+    Kompletteringen har enklare struktur än kollektiva: bara avsändare i header
+    och signaturblock behöver ersättas.
+    """
+    if not mall_path.exists():
+        raise FileNotFoundError(f"Mall saknas: {mall_path}")
+
+    html = mall_path.read_text(encoding="utf-8")
+
+    html = remove_first_draft_banner(html)
+
+    # Ersätt avsändare i header
+    html = html.replace(
+        "<strong>Avsändare:</strong> [Undertecknande sakägare]",
+        f"<strong>Avsändare:</strong> {name}, ägare till {fastighet}",
+    )
+
+    # Ersätt signaturblocket
+    old_sig = (
+        "<strong>[Undertecknande sakägare]</strong><br>\n"
+        "[Fastighetsbeteckning]<br>\n"
+        "[Kontaktuppgifter]"
+    )
+    new_sig = (
+        f"<strong>{name}</strong><br>\n"
+        f"Ägare till {fastighet}<br>\n"
+        f"{adress}<br>\n"
+        f"Mobil: {tel}<br>\n"
+        f"E-post: {email}"
+    )
+    html = html.replace(old_sig, new_sig)
 
     output_path.write_text(html, encoding="utf-8")
     print(f"Skrev: {output_path} ({len(html)} tecken)")
@@ -237,17 +283,29 @@ def main(argv: list[str] | None = None) -> int:
     mall_path = repo_root / args.mall
     output_path = repo_root / args.output
 
-    personalize(
-        mall_path=mall_path,
-        output_path=output_path,
-        name=args.name,
-        fastighet=args.fastighet,
-        adress=args.adress,
-        tel=args.tel,
-        email=args.email,
-        datum=args.datum,
-        rights=args.rights,
-    )
+    # Auto-detektera mall-typ via filnamn
+    if "komplettering" in args.mall.lower():
+        personalize_komplettering(
+            mall_path=mall_path,
+            output_path=output_path,
+            name=args.name,
+            fastighet=args.fastighet,
+            adress=args.adress,
+            tel=args.tel,
+            email=args.email,
+        )
+    else:
+        personalize(
+            mall_path=mall_path,
+            output_path=output_path,
+            name=args.name,
+            fastighet=args.fastighet,
+            adress=args.adress,
+            tel=args.tel,
+            email=args.email,
+            datum=args.datum,
+            rights=args.rights,
+        )
     return 0
 
 
