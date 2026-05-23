@@ -11,7 +11,7 @@
 
 ## Inledning
 
-Denna skrivelse utgör en komplettering till mitt tidigare inlämnade yttrande över rubricerat detaljplaneförslag. Kompletteringen avser en grund som väsentligen förstärker tidigare yrkanden om säsongsriktig artinventering och miljökonsekvensbedömning: **otillräcklig redovisning av våtmarker och deras betydelse för fågelliv, biotopskydd, markavvattning och försämringsförbudet för vatten**.
+Denna skrivelse inkommer inom samrådstiden 2026-05-04—05-25 och utgör en komplettering till mitt tidigare inlämnade yttrande över rubricerat detaljplaneförslag. Kompletteringen förstärker särskilt yrkandena om **säsongsriktig artinventering** (punkt 2 i det tidigare yttrandet om allmänna planfrågor) och **miljökvalitetsnormer för vatten** (punkt 4), genom en sammansatt grund: **otillräcklig redovisning av våtmarker och deras betydelse för fågelliv, biotopskydd, eventuellt behov av markavvattning och försämringsförbudet för vatten**.
 
 I övrigt vidhåller jag yrkandena och argumenten i mitt tidigare yttrande.
 
@@ -25,7 +25,7 @@ Planhandlingarna har en allvarlig brist i att de inte adresserar de våtmarker s
 
 ### 1. Storlom (Gavia arctica) – bilaga 1-art i [fågeldirektivet](https://eur-lex.europa.eu/eli/dir/2009/147/oj)
 
-Storlom är upptagen i bilaga 1 till [fågeldirektivet 2009/147/EG](https://eur-lex.europa.eu/eli/dir/2009/147/oj) (A002) och kräver enligt direktivets artikel 4(1) *"särskilda skyddsåtgärder"*. Sverige har omkring 99 % av EU:s häckande population av storlom – ett särskilt ansvar enligt EU-rätten. Arten är fredad enligt jaktförordningen (1987:905) och skyddad enligt [4 § artskyddsförordningen](https://lagen.nu/2007:845#P4).
+Storlom är upptagen i bilaga 1 till [fågeldirektivet 2009/147/EG](https://eur-lex.europa.eu/eli/dir/2009/147/oj) (A002) och kräver enligt direktivets artikel 4(1) *"särskilda skyddsåtgärder"*. Sverige hyser en av Europas största häckande populationer av storlom och har ett betydande ansvar för artens bevarande enligt EU-rätten. Arten är fredad enligt jaktförordningen (1987:905) och skyddad enligt [4 § artskyddsförordningen](https://lagen.nu/2007:845#P4). Havstrut är skyddad enligt [4 § artskyddsförordningen](https://lagen.nu/2007:845#P4) (motsvarande [fågeldirektivet](https://eur-lex.europa.eu/eli/dir/2009/147/oj)s artikel 5) som vild fågel, men ingår inte i bilaga 1.
 
 När kommunens egen översiktsplan obestritt anger att storlom historiskt häckat i Stora Öresjön är detta en omständighet som måste utredas i planprocessen. Regeringsrätten har upphävt beslut om antagande av detaljplan när miljökonsekvensbeskrivning inte behandlat exploateringens konsekvenser för fridlysta arter *"som obestritt uppgivits förekomma inom planområdet"*.
 
@@ -39,7 +39,7 @@ Av [MÖD 2017:49](https://lagen.nu/dom/mod/2017:49) följer att artskyddsutredni
 
 Planbeskrivningen redovisar visserligen våtmarker i östra delen av LIS-området, men nämner inte våtmarkerna omkring Brearetjärnen i planområdet eller deras funktion. Naturvärdesinventeringen (NVI 2025-09-02) identifierar dock *"sex småvatten"* varav ett med djuphåla lämpligt som groddjurslokal, och beskriver miljön som *"tallskog på myrmark"* respektive *"gammal jordbruksmark"*. Dessa miljöer är typiskt habitat för:
 
-- Bilaga 1-arter enligt [fågeldirektivet](https://eur-lex.europa.eu/eli/dir/2009/147/oj) (storlom, havstrut, vadare m.fl.)
+- Bilaga 1-arter enligt [fågeldirektivet](https://eur-lex.europa.eu/eli/dir/2009/147/oj) (storlom m.fl.) samt övriga skyddade vilda fåglar enligt [4 § artskyddsförordningen](https://lagen.nu/2007:845#P4) (t.ex. havstrut)
 - Bilaga IV-arter enligt [habitatdirektivet](https://eur-lex.europa.eu/eli/dir/1992/43/oj) (samtliga svenska fladdermöss, större vattensalamander, åkergroda m.fl.)
 - Övriga fridlysta groddjur enligt [6 § artskyddsförordningen](https://lagen.nu/2007:845#P6) (samtliga svenska grod- och kräldjur)
 
@@ -49,9 +49,9 @@ Brungroda är dokumenterad inom planområdet. Övriga groddjur, fladdermöss och
 
 Enligt [7 kap. 11 § miljöbalken](https://lagen.nu/1998:808#K7P11) och förordningen (1998:1252) om områdesskydd bilaga 1 omfattar det generella biotopskyddet bl.a. *"småvatten och våtmark i jordbruksmark"* (upp till 1 hektar) samt *"källor med omgivande våtmark i jordbruksmark"*. När [planbeskrivningen](https://github.com/johanclawson/oresjon_samradsyttrande/blob/master/planhandlingar/planbeskrivning.pdf) och NVI uttryckligen anger att området består av tallskog på myrmark på gammal jordbruksmark med sex identifierade småvatten, är det möjligt att generellt biotopskydd föreligger för flera av dessa. Detta är inte prövat i planhandlingarna. Dispens enligt [7 kap. 11 § andra stycket miljöbalken](https://lagen.nu/1998:808#K7P11) får endast ges vid särskilda skäl.
 
-### 5. Markavvattning enligt 11 kap. 13–14 §§ miljöbalken
+### 5. Eventuellt behov av markavvattning enligt 11 kap. 13–14 §§ miljöbalken
 
-Planbeskrivningen anger (sid. 26) att *"fri grundvattenyta finns på cirka 0,2 m djup"* och föreslår en lägsta grundläggningsnivå för byggnader. Detta indikerar avvattningsbehov för att möjliggöra bebyggelse. Enligt 11 kap. 13–14 §§ miljöbalken är markavvattning förbjuden i större delen av södra Sverige, inklusive Västra Götalands län. Tillstånd krävs alltid. Tillståndsfrågan måste klargöras innan detaljplanen antas – bygglovet kan inte tvinga fram lösningen (jfr [MÖD 2013:20](https://lagen.nu/dom/mod/2013:20), mål [P 2699-12](https://lagen.nu/dom/mod/2013:20), Burlöv).
+Planbeskrivningen anger (sid. 26) att *"fri grundvattenyta finns på cirka 0,2 m djup"* och föreslår en lägsta grundläggningsnivå för byggnader. Den höga grundvattennivån i kombination med planområdets myrmarkskaraktär och de sex identifierade småvattnen aktualiserar frågan om planens genomförande förutsätter dränering, dikning eller grundvattenpåverkande åtgärder. Markavvattning är enligt 11 kap. 13–14 §§ miljöbalken förbjuden i större delen av södra Sverige, inklusive Västra Götalands län, och kräver tillstånd. Kommunen bör därför utreda och redovisa om planens genomförande kan ske utan tillståndspliktig markavvattning eller annan grundvattenpåverkande verksamhet. Eventuella tillståndsfrågor måste klargöras innan detaljplanen antas – bygglovet kan inte tvinga fram lösningen (jfr [MÖD 2013:20](https://lagen.nu/dom/mod/2013:20), mål [P 2699-12](https://lagen.nu/dom/mod/2013:20), Burlöv).
 
 ### 6. GWDTE-bedömning och försämringsförbud enligt [vattendirektivet](https://eur-lex.europa.eu/eli/dir/2000/60/oj)
 
@@ -61,13 +61,13 @@ Stora Öresjön har enligt [LIS-tillägget](https://github.com/johanclawson/ores
 
 Jag yrkar att den säsongsriktiga artinventering som tidigare yrkats utvidgas till att även omfatta:
 
-- **Fågelhäckning i april–juli** med särskilt fokus på bilaga 1-arter enligt [fågeldirektivet](https://eur-lex.europa.eu/eli/dir/2009/147/oj) (storlom, havstrut) samt andra fridlysta arter knutna till våtmark och näringsfattig sjö.
+- **Fågelhäckning i april–juli** med särskilt fokus på bilaga 1-arter enligt [fågeldirektivet](https://eur-lex.europa.eu/eli/dir/2009/147/oj) (storlom) samt andra skyddade fåglar enligt [4 § artskyddsförordningen](https://lagen.nu/2007:845#P4) (havstrut m.fl.) och fridlysta arter knutna till våtmark och näringsfattig sjö.
 - **Våtmarkernas funktion** som habitat för bilaga 1-arter ([fågeldirektivet](https://eur-lex.europa.eu/eli/dir/2009/147/oj)) och bilaga IV-arter ([habitatdirektivet](https://eur-lex.europa.eu/eli/dir/1992/43/oj)), inkluderande de sex småvatten som NVI identifierar.
 - **Biotopskyddsbedömning enligt [7 kap. 11 § miljöbalken](https://lagen.nu/1998:808#K7P11)** för samtliga småvatten i området, med särskilt fokus på de som ligger på eller i anslutning till gammal jordbruksmark.
 - **Markavvattningsbedömning enligt 11 kap. 13–14 §§ miljöbalken**, med klargörande av huruvida tillstånd krävs för att möjliggöra bebyggelse.
 - **GWDTE-bedömning** enligt [vattendirektivet](https://eur-lex.europa.eu/eli/dir/2000/60/oj) och [Weser-domen](https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:62013CJ0461), med konsekvensanalys för Stora Öresjön per kvalitetsfaktor.
 
-Av [MÖD P 9670-20](https://www.strandskyddsdomar.se/upphavd-detaljplan-pa-grund-av-att-utredning-saknas/) (dom 2021-03-26) följer att en detaljplan ska upphävas när stödutredning för naturvärden saknas. Av [MÖD 2017:49](https://lagen.nu/dom/mod/2017:49) följer att artskyddsutredningar ska vara klara innan planen antas. Av [MÖD 2013:20](https://lagen.nu/dom/mod/2013:20) följer att frågor om dagvatten och påverkan på vattenförekomster inte kan hänskjutas till bygglovsskedet.
+Av [MÖD P 9670-20](https://www.strandskyddsdomar.se/upphavd-detaljplan-pa-grund-av-att-utredning-saknas/) (dom 2021-03-26) följer att en detaljplan kan upphävas när det saknas tillräcklig utredning som visar att exploateringsintresset inte kan tillgodoses utanför strandskyddat område. Av [MÖD 2017:49](https://lagen.nu/dom/mod/2017:49) följer att artskyddsutredningar ska vara klara innan planen antas. Av [MÖD 2013:20](https://lagen.nu/dom/mod/2013:20) följer att frågor om dagvatten och påverkan på vattenförekomster inte kan hänskjutas till bygglovsskedet.
 
 I övrigt vidhåller jag samtliga yrkanden i mitt tidigare yttrande.
 

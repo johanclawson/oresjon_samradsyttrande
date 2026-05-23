@@ -252,7 +252,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--adress", default="Jägmästarvägen 6, 438 95 Hällingsjö")
     parser.add_argument("--tel", default="070-264 09 04")
     parser.add_argument("--email", default="johan.claeson@gmail.com")
-    parser.add_argument("--datum", default="2026-05-22")
+    parser.add_argument("--datum", default="2026-05-23")
     parser.add_argument(
         "--rights",
         default=(
